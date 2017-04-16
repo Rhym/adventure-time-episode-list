@@ -153,7 +153,7 @@ class Table extends Component {
               return (
                 <tr key={item.id} className={classes}>
                   <td className="table__se">{item.season}</td>
-                  <td className="table__ep">{item.number}</td>
+                  <td className="table__ep">{item.id}</td>
                   <td className="table__title">
                     {item.name}
                   </td>
