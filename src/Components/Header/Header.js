@@ -18,7 +18,7 @@ class Header extends Component {
             <a href="https://github.com/Rhym/adventure-time-episode-list"
                rel="noopener"
                target="_blank"
-               className="pt-button pt-minimal pt-icon-document">
+               className="pt-button pt-minimal pt-icon-share">
               Github
             </a>
           </div>
