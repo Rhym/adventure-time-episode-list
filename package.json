@@ -10,6 +10,7 @@
     "@blueprintjs/core": "^1.14.0",
     "@ryanpotternz/css-reset": "^1.0.2",
     "classnames": "^2.2.5",
+    "gh-pages": "^0.12.0",
     "lodash": "^4.17.4",
     "normalize.css": "^6.0.0",
     "react": "^15.5.4",
