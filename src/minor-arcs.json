@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Magic Man",
+    "episodes": [
+      20,
+      93,
+      109,
+      137,
+      163,
+      174,
+      195
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Susan Strong",
+    "episodes": [
+      44,
+      66,
+      186
+    ]
+  },
+  {
+    "id": 3,
+    "name": "LSP",
+    "episodes": [
+      2,
+      3,
+      52,
+      58,
+      64,
+      65,
+      90,
+      129,
+      153,
+      162,
+      165,
+      196
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Grob Gob Glob Grod",
+    "episodes": [
+      93,
+      120,
+      157,
+      182,
+      195
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cosmic Owl",
+    "episodes": [
+      3,
+      21,
+      70,
+      104,
+      106,
+      134,
+      157,
+      193
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fionna and Cake",
+    "episodes": [
+      61,
+      112,
+      115,
+      165
+    ]
+  },
+  {
+    "id": 7,
+    "name": "BMO",
+    "episodes": [
+      42,
+      49,
+      80,
+      92,
+      95,
+      107,
+      121,
+      124,
+      132,
+      137,
+      173,
+      191
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Demon Blood Sword",
+    "episodes": [
+      77,
+      144,
+      145
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Prismo",
+    "episodes": [
+      104,
+      105,
+      106,
+      157,
+      175,
+      193
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Peppermint Butler",
+    "episodes": [
+      43,
+      125,
+      171,
+      173
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Jermaine",
+    "episodes": [
+      34,
+      172,
+      190
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Root Beer Guy",
+    "episodes": [
+      147,
+      166,
+      203
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Guest Animator Episodes",
+    "episodes": [
+      119,
+      123,
+      163,
+      194
+    ]
+  }
+]

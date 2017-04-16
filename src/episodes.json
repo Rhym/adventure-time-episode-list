@@ -1,0 +1,5120 @@
+[
+  {
+    "id": 1,
+    "url": "http://www.tvmaze.com/episodes/30006/adventure-time-1x01-slumber-party-panic",
+    "name": "Slumber Party Panic",
+    "season": 1,
+    "number": 1,
+    "airdate": "2010-04-05",
+    "airtime": "20:00",
+    "airstamp": "2010-04-05T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252987.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252987.jpg"
+    },
+    "summary": "Princess Bumblegum's latest experiment accidentally unleashes an undead horde upon the Candy Kingdom.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30006"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "url": "http://www.tvmaze.com/episodes/30007/adventure-time-1x02-trouble-in-lumpy-space",
+    "name": "Trouble in Lumpy Space",
+    "season": 1,
+    "number": 2,
+    "airdate": "2010-04-05",
+    "airtime": "20:15",
+    "airstamp": "2010-04-05T20:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252988.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252988.jpg"
+    },
+    "summary": "Jake is bitten by Lumpy Space Princess and begins to transform into a Lumpy being. In order to find a cure, Finn is travels to Lumpy Space.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30007"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "url": "http://www.tvmaze.com/episodes/30008/adventure-time-1x03-prisoners-of-love",
+    "name": "Prisoners of Love",
+    "season": 1,
+    "number": 3,
+    "airdate": "2010-04-12",
+    "airtime": "20:00",
+    "airstamp": "2010-04-12T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252989.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252989.jpg"
+    },
+    "summary": "After the Ice King kidnaps a large group of princesses, its up to Finn and Jake to free them.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30008"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "url": "http://www.tvmaze.com/episodes/30009/adventure-time-1x04-tree-trunks",
+    "name": "Tree Trunks",
+    "season": 1,
+    "number": 4,
+    "airdate": "2010-04-12",
+    "airtime": "20:15",
+    "airstamp": "2010-04-12T20:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252990.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252990.jpg"
+    },
+    "summary": "Tree Trunks joins Finn and Jake on an quest, but finds her talents for adventuring leave something to be desired.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30009"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "url": "http://www.tvmaze.com/episodes/30010/adventure-time-1x05-the-enchiridion",
+    "name": "The Enchiridion!",
+    "recommended": true,
+    "season": 1,
+    "number": 5,
+    "airdate": "2010-04-19",
+    "airtime": "20:00",
+    "airstamp": "2010-04-19T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252991.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252991.jpg"
+    },
+    "summary": "Finn and Jake go on a quest for a magical book that would prove them worthy of being righteous heroes.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30010"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "url": "http://www.tvmaze.com/episodes/30011/adventure-time-1x06-the-jiggler",
+    "name": "The Jiggler",
+    "season": 1,
+    "number": 6,
+    "airdate": "2010-04-19",
+    "airtime": "20:15",
+    "airstamp": "2010-04-19T20:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252992.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252992.jpg"
+    },
+    "summary": "A jiggly creature attracted by Finn's auto-tuned singing follows Finn and Jake home but soon feels ill effects of separation from its family.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30011"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "url": "http://www.tvmaze.com/episodes/30012/adventure-time-1x07-ricardio-the-heart-guy",
+    "name": "Ricardio the Heart Guy",
+    "season": 1,
+    "number": 7,
+    "airdate": "2010-04-26",
+    "airtime": "20:00",
+    "airstamp": "2010-04-26T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252993.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252993.jpg"
+    },
+    "summary": "After saving Princess Bubblegum from the Ice King yet again she offers them a party, but during the party Finn grows jealous of a suspicious heart-shaped man that is wooing with Princesss Bubblegum and sets out to prove that he's evil.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30012"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "url": "http://www.tvmaze.com/episodes/30013/adventure-time-1x08-business-time",
+    "name": "Business Time",
+    "recommended": true,
+    "season": 1,
+    "number": 8,
+    "airdate": "2010-04-26",
+    "airtime": "20:15",
+    "airstamp": "2010-04-26T20:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252994.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252994.jpg"
+    },
+    "summary": "Finn and Jake fall victim to their own laziness when they delegate their adventuring responsibilities to a group of businessmen thawed from an iceberg.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30013"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "url": "http://www.tvmaze.com/episodes/30014/adventure-time-1x09-my-two-favorite-people",
+    "name": "My Two Favorite People",
+    "recommended": true,
+    "season": 1,
+    "number": 9,
+    "airdate": "2010-05-03",
+    "airtime": "20:00",
+    "airstamp": "2010-05-03T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252995.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252995.jpg"
+    },
+    "summary": "Jake feels neglected when his plan to spend time with both Lady Rainicorn and Finn backfires.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30014"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "url": "http://www.tvmaze.com/episodes/30015/adventure-time-1x10-memories-of-boom-boom-mountain",
+    "name": "Memories of Boom Boom Mountain",
+    "recommended": true,
+    "season": 1,
+    "number": 10,
+    "airdate": "2010-05-03",
+    "airtime": "20:15",
+    "airstamp": "2010-05-03T20:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252996.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252996.jpg"
+    },
+    "summary": "Finn reflects on an upsetting experience in his past and pledges to help everyone in need, but this proves more difficult than imagined.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30015"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "url": "http://www.tvmaze.com/episodes/30016/adventure-time-1x11-finn-the-wizard",
+    "name": "Finn the Wizard",
+    "season": 1,
+    "number": 11,
+    "airdate": "2010-05-10",
+    "airtime": "20:00",
+    "airstamp": "2010-05-10T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252997.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252997.jpg"
+    },
+    "summary": "Finn and Jake are coaxed by a skeleton man to enroll in a course for free magic powers, but are ultimately tricked into helping stop an asteroid.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30016"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "url": "http://www.tvmaze.com/episodes/30017/adventure-time-1x12-evicted",
+    "name": "Evicted!",
+    "recommended": true,
+    "season": 1,
+    "number": 12,
+    "airdate": "2010-05-17",
+    "airtime": "20:00",
+    "airstamp": "2010-05-17T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252998.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252998.jpg"
+    },
+    "summary": "Finn and Jake search the land of Ooo for a new home after Marceline claims the duo's treehouse as her own.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30017"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "url": "http://www.tvmaze.com/episodes/30018/adventure-time-1x13-city-of-thieves",
+    "name": "City of Thieves",
+    "season": 1,
+    "number": 13,
+    "airdate": "2010-05-24",
+    "airtime": "20:00",
+    "airstamp": "2010-05-24T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/252999.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/252999.jpg"
+    },
+    "summary": "Finn and Jake enter the City of Thieves to confront a thief king who has been stealing from little girls.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30018"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "url": "http://www.tvmaze.com/episodes/30019/adventure-time-1x14-the-witchs-garden",
+    "name": "The Witch's Garden",
+    "season": 1,
+    "number": 14,
+    "airdate": "2010-06-07",
+    "airtime": "20:00",
+    "airstamp": "2010-06-07T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253000.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253000.jpg"
+    },
+    "summary": "Jake loses his enthusiasm for adventure when a witch strips him of his powers for trespassing in her garden.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30019"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "url": "http://www.tvmaze.com/episodes/30020/adventure-time-1x15-what-is-life",
+    "name": "What is Life?",
+    "recommended": true,
+    "season": 1,
+    "number": 15,
+    "airdate": "2010-06-14",
+    "airtime": "20:00",
+    "airstamp": "2010-06-14T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253001.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253001.jpg"
+    },
+    "summary": "Finn builds a pie-throwing robot to seek revenge against Jake, but the machine's conscience is conflicted by the will of the Ice King.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30020"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "url": "http://www.tvmaze.com/episodes/30021/adventure-time-1x16-ocean-of-fear",
+    "name": "Ocean of Fear",
+    "recommended": true,
+    "season": 1,
+    "number": 16,
+    "airdate": "2010-06-21",
+    "airtime": "20:00",
+    "airstamp": "2010-06-21T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253002.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253002.jpg"
+    },
+    "summary": "Jake tries to help Finn overcome his fear of the ocean.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30021"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "url": "http://www.tvmaze.com/episodes/30022/adventure-time-1x17-when-wedding-bells-thaw",
+    "name": "When Wedding Bells Thaw",
+    "season": 1,
+    "number": 17,
+    "airdate": "2010-06-28",
+    "airtime": "20:00",
+    "airstamp": "2010-06-28T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253003.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253003.jpg"
+    },
+    "summary": "The Ice King suppresses his kidnapping urges to wed a suspicious bride and convinces Finn and Jake to throw him a manlorette party, but then realizes he'll have to give up his hobby of kidnapping.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30022"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "url": "http://www.tvmaze.com/episodes/30023/adventure-time-1x18-dungeon",
+    "name": "Dungeon",
+    "season": 1,
+    "number": 18,
+    "airdate": "2010-07-12",
+    "airtime": "20:00",
+    "airstamp": "2010-07-12T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253004.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253004.jpg"
+    },
+    "summary": "Finn's headstrong decision to explore a dungeon to find the Crystal Eye in defiance of Jake and Princess Bubblegum's warnings puts him in great danger.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30023"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "url": "http://www.tvmaze.com/episodes/30024/adventure-time-1x19-the-duke",
+    "name": "The Duke",
+    "season": 1,
+    "number": 19,
+    "airdate": "2010-07-19",
+    "airtime": "20:00",
+    "airstamp": "2010-07-19T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253005.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253005.jpg"
+    },
+    "summary": "Finn turns Princess Bubblegum green and bald, and faces a moral quandary—whether to confess his mistake and be hated by his friend forever, or let Princess Bubblegum wrongly accuse the Duke of Nuts instead.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30024"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "url": "http://www.tvmaze.com/episodes/30025/adventure-time-1x20-freak-city",
+    "name": "Freak City",
+    "recommended": true,
+    "season": 1,
+    "number": 20,
+    "airdate": "2010-07-26",
+    "airtime": "20:00",
+    "airstamp": "2010-07-26T20:00:00-04:00",
+    "image": null,
+    "summary": "After being transformed into a foot by a Magic Man, Finn joins forces with a band of misfits to fix the problem.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30025"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "url": "http://www.tvmaze.com/episodes/30026/adventure-time-1x21-donny",
+    "name": "Donny",
+    "season": 1,
+    "number": 21,
+    "airdate": "2010-08-09",
+    "airtime": "20:00",
+    "airstamp": "2010-08-09T20:00:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake help a bullying grass ogre named Donny turn his life around, without realizing the ecological damage they may be causing in the process.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30026"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "url": "http://www.tvmaze.com/episodes/30027/adventure-time-1x22-henchman",
+    "name": "Henchman",
+    "recommended": true,
+    "season": 1,
+    "number": 22,
+    "airdate": "2010-08-23",
+    "airtime": "20:00",
+    "airstamp": "2010-08-23T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253006.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253006.jpg"
+    },
+    "summary": "Finn takes the place of Marceline's henchman, but finds it hard to obey her seemingly evil commands.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30027"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "url": "http://www.tvmaze.com/episodes/30028/adventure-time-1x23-rainy-day-daydream",
+    "name": "Rainy Day Daydream",
+    "recommended": true,
+    "season": 1,
+    "number": 23,
+    "airdate": "2010-09-06",
+    "airtime": "20:00",
+    "airstamp": "2010-09-06T20:00:00-04:00",
+    "image": null,
+    "summary": "Stuck inside the treehouse due to a knife storm, Finn and Jake use their imagination to pass the time, but then Finn finds out that whatever Jake imagines becomes real.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30028"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "url": "http://www.tvmaze.com/episodes/30029/adventure-time-1x24-what-have-you-done",
+    "name": "What Have You Done?",
+    "season": 1,
+    "number": 24,
+    "airdate": "2010-09-13",
+    "airtime": "20:00",
+    "airstamp": "2010-09-13T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253007.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253007.jpg"
+    },
+    "summary": "Without giving good details, Princess Bubblegum tells Finn and Jake to capture the Ice King as their prisoner, but they struggle to defend their actions when they try to interrogate him.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30029"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "url": "http://www.tvmaze.com/episodes/30030/adventure-time-1x25-finn-meets-his-hero",
+    "name": "Finn Meets His Hero",
+    "season": 1,
+    "number": 25,
+    "recommended": true,
+    "airdate": "2010-09-20",
+    "airtime": "20:00",
+    "airstamp": "2010-09-20T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253008.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253008.jpg"
+    },
+    "summary": "The great warrior Billy inspires Finn and Jake to practice non-violence, but the duo finds it difficult to resist their old ways.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30030"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "url": "http://www.tvmaze.com/episodes/30031/adventure-time-1x26-the-gut-grinder",
+    "name": "The Gut Grinder",
+    "recommended": true,
+    "season": 1,
+    "number": 26,
+    "airdate": "2010-09-27",
+    "airtime": "20:00",
+    "airstamp": "2010-09-27T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253009.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253009.jpg"
+    },
+    "summary": "When the Soft People's gold has been devoured by a culprit only known as \"The Gut Grinder,\" Finn and Jake team up to track him down.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30031"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "url": "http://www.tvmaze.com/episodes/30032/adventure-time-2x01-it-came-from-the-nightosphere",
+    "name": "It Came from the Nightosphere",
+    "season": 2,
+    "number": 1,
+    "airdate": "2010-10-11",
+    "airtime": "20:00",
+    "airstamp": "2010-10-11T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253013.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253013.jpg"
+    },
+    "summary": "Finn summons the Lord of Evil to reconcile with his daughter, Marceline the Vampire Queen, but ends up unleashing him on the unsuspecting land.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30032"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "url": "http://www.tvmaze.com/episodes/30033/adventure-time-2x02-the-eyes",
+    "name": "The Eyes",
+    "season": 2,
+    "number": 2,
+    "airdate": "2010-10-18",
+    "airtime": "20:00",
+    "airstamp": "2010-10-18T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253014.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253014.jpg"
+    },
+    "summary": "One night, an exhausted Finn and Jake are creeped out by an odd-looking horse that mysteriously appears outside the treehouse and keeps them awake. They try everything they can think of to get rid of the freaky horse, but nothing seems to work.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30033"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "url": "http://www.tvmaze.com/episodes/30034/adventure-time-2x03-loyalty-to-the-king",
+    "name": "Loyalty to the King",
+    "season": 2,
+    "number": 3,
+    "airdate": "2010-10-25",
+    "airtime": "20:00",
+    "airstamp": "2010-10-25T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253015.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253015.jpg"
+    },
+    "summary": "There's a new \"Nice King\" in Ooo, and he looks kinda like someone else we know.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30034"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "url": "http://www.tvmaze.com/episodes/30035/adventure-time-2x04-blood-under-the-skin",
+    "name": "Blood Under the Skin",
+    "season": 2,
+    "number": 4,
+    "airdate": "2010-11-01",
+    "airtime": "20:00",
+    "airstamp": "2010-11-01T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253016.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253016.jpg"
+    },
+    "summary": "Finn goes on an embarrassing quest to get armor to fit in with some really cool knights.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30035"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "url": "http://www.tvmaze.com/episodes/30036/adventure-time-2x05-storytelling",
+    "name": "Storytelling",
+    "season": 2,
+    "number": 5,
+    "airdate": "2010-11-08",
+    "airtime": "20:00",
+    "airstamp": "2010-11-08T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253017.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253017.jpg"
+    },
+    "summary": "When Jake becomes sick, the only thing that can cure him is a good story, so he asks Finn to go out and find one. The story must have excitement, romance, suspense and, of course, a happy ending. But when nothing interesting happens, Finn tries to make the story happen, accidentally turning the forest animals against each other... and him!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30036"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "url": "http://www.tvmaze.com/episodes/30037/adventure-time-2x06-slow-love",
+    "name": "Slow Love",
+    "season": 2,
+    "number": 6,
+    "airdate": "2010-11-15",
+    "airtime": "20:00",
+    "airstamp": "2010-11-15T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253018.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253018.jpg"
+    },
+    "summary": "A lonely snail lookin' for love literally crashes into the treehouse and asks Finn and Jake for help. Now our heroes must teach this snail how to get a girlfriend before he destroys their home!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30037"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "url": "http://www.tvmaze.com/episodes/30038/adventure-time-2x07-power-animal",
+    "name": "Power Animal",
+    "season": 2,
+    "number": 7,
+    "airdate": "2010-11-22",
+    "airtime": "20:00",
+    "airstamp": "2010-11-22T20:00:00-05:00",
+    "image": null,
+    "summary": "Finn is kidnapped by a group of gnomes, who want to harness his energy to take over the world. Only Jake can save his best friend... if he can just focus long enough to follow the obvious clues and rescue Finn.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30038"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "url": "http://www.tvmaze.com/episodes/30039/adventure-time-2x08-crystals-have-power",
+    "name": "Crystals Have Power",
+    "recommended": true,
+    "season": 2,
+    "number": 8,
+    "airdate": "2010-11-29",
+    "airtime": "20:00",
+    "airstamp": "2010-11-29T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253019.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253019.jpg"
+    },
+    "summary": "Jake takes a vow of non-violence which is inconvenient when they're attacked by marauders from the crystal dimension.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30039"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "url": "http://www.tvmaze.com/episodes/30040/adventure-time-2x09-the-other-tarts",
+    "name": "The Other Tarts",
+    "season": 2,
+    "number": 9,
+    "airdate": "2011-01-03",
+    "airtime": "20:00",
+    "airstamp": "2011-01-03T20:00:00-05:00",
+    "image": null,
+    "summary": "Finn and Jake volunteer for a dangerous assignment: carrying rare tarts for a meeting of Ooo royalty.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30040"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "url": "http://www.tvmaze.com/episodes/30041/adventure-time-2x10-to-cut-a-womans-hair",
+    "name": "To Cut a Woman's Hair",
+    "season": 2,
+    "number": 10,
+    "airdate": "2011-01-10",
+    "airtime": "20:00",
+    "airstamp": "2011-01-10T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253020.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253020.jpg"
+    },
+    "summary": "Finn needs to find a princess willing to give up a lock of her hair to save Jake from a balding witch.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30041"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "url": "http://www.tvmaze.com/episodes/30042/adventure-time-2x11-the-chamber-of-frozen-blades",
+    "name": "The Chamber of Frozen Blades",
+    "season": 2,
+    "number": 11,
+    "airdate": "2011-01-17",
+    "airtime": "20:00",
+    "airstamp": "2011-01-17T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253021.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253021.jpg"
+    },
+    "summary": "In Ninja-mode, Finn and Jake break into Ice King's palace to catch him red-handed.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30042"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "url": "http://www.tvmaze.com/episodes/30043/adventure-time-2x12-her-parents",
+    "name": "Her Parents",
+    "recommended": true,
+    "season": 2,
+    "number": 12,
+    "airdate": "2011-01-24",
+    "airtime": "20:00",
+    "airstamp": "2011-01-24T20:00:00-05:00",
+    "image": null,
+    "summary": "Jake pretends to be a rainicorn in order to make Lady's parents like him.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30043"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "url": "http://www.tvmaze.com/episodes/30044/adventure-time-2x13-the-pods",
+    "name": "The Pods",
+    "season": 2,
+    "number": 13,
+    "airdate": "2011-01-31",
+    "airtime": "20:00",
+    "airstamp": "2011-01-31T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253022.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253022.jpg"
+    },
+    "summary": "Finn and Jake meet a dying frog-turned gnome knight who is bestowed upon three seeds; two of them are good, one is bad, and he vowed that they will never be planted. Finn accepted the bean quest but he planned to plant the beans so that after the pods grow he could destroy evil.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30044"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "url": "http://www.tvmaze.com/episodes/30045/adventure-time-2x14-the-silent-king",
+    "name": "The Silent King",
+    "season": 2,
+    "number": 14,
+    "airdate": "2011-02-07",
+    "airtime": "20:00",
+    "airstamp": "2011-02-07T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253023.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253023.jpg"
+    },
+    "summary": "Finn and Jake get to live like royalty, but soon find the easy life doesn't suit them. Or at least not Finn.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30045"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "url": "http://www.tvmaze.com/episodes/30046/adventure-time-2x15-the-real-you",
+    "name": "The Real You",
+    "season": 2,
+    "number": 15,
+    "airdate": "2011-02-14",
+    "airtime": "20:00",
+    "airstamp": "2011-02-14T20:00:00-05:00",
+    "image": null,
+    "summary": "Finn has to give a speech at Princess Bubblegum's science barbecue and seeks a quick fix to make himself smarter.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30046"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "url": "http://www.tvmaze.com/episodes/30047/adventure-time-2x16-guardians-of-sunshine",
+    "name": "Guardians of Sunshine",
+    "season": 2,
+    "number": 16,
+    "airdate": "2011-02-21",
+    "airtime": "20:00",
+    "airstamp": "2011-02-21T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253024.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253024.jpg"
+    },
+    "summary": "Finn and Jake become trapped inside one of BMO's video game creations.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30047"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "url": "http://www.tvmaze.com/episodes/30048/adventure-time-2x17-death-in-bloom",
+    "name": "Death in Bloom",
+    "recommended": true,
+    "season": 2,
+    "number": 17,
+    "airdate": "2011-02-28",
+    "airtime": "20:00",
+    "airstamp": "2011-02-28T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253025.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253025.jpg"
+    },
+    "summary": "After accidentally killing Princess Bubblegum's beloved plant, Finn and Jake travel to the land of the dead to bring it back to life.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30048"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "url": "http://www.tvmaze.com/episodes/30049/adventure-time-2x18-susan-strong",
+    "name": "Susan Strong",
+    "recommended": true,
+    "season": 2,
+    "number": 18,
+    "airdate": "2011-03-07",
+    "airtime": "20:00",
+    "airstamp": "2011-03-07T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253026.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253026.jpg"
+    },
+    "summary": "Having always believed he is the only human left in the Land of Ooo, Finn believes he has discovered a tribe to primitive humans living underground.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30049"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "url": "http://www.tvmaze.com/episodes/30050/adventure-time-2x19-mystery-train",
+    "name": "Mystery Train",
+    "season": 2,
+    "number": 19,
+    "airdate": "2011-03-14",
+    "airtime": "20:00",
+    "airstamp": "2011-03-14T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253027.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253027.jpg"
+    },
+    "summary": "While traveling on a train, Finn and Jake find themselves in the middle of a murder mystery.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30050"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "url": "http://www.tvmaze.com/episodes/30051/adventure-time-2x20-go-with-me",
+    "name": "Go with Me",
+    "season": 2,
+    "number": 20,
+    "airdate": "2011-03-28",
+    "airtime": "20:00",
+    "airstamp": "2011-03-28T20:00:00-04:00",
+    "image": null,
+    "summary": "Jake and Marceline give Finn conflicting advise on how to ask out Princess Bubblegum.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30051"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "url": "http://www.tvmaze.com/episodes/30052/adventure-time-2x21-belly-of-the-beast",
+    "name": "Belly of the Beast",
+    "season": 2,
+    "number": 21,
+    "airdate": "2011-04-04",
+    "airtime": "20:00",
+    "airstamp": "2011-04-04T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253028.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253028.jpg"
+    },
+    "summary": "Finn and Jake must save a group of clueless, party-minded teddy bears living inside the belly of a monster.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30052"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "url": "http://www.tvmaze.com/episodes/30053/adventure-time-2x22-the-limit",
+    "name": "The Limit",
+    "recommended": true,
+    "season": 2,
+    "number": 22,
+    "airdate": "2011-04-11",
+    "airtime": "20:00",
+    "airstamp": "2011-04-11T20:00:00-04:00",
+    "image": null,
+    "summary": "An enormous maze tests the limit of Jake's stretching power.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30053"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "url": "http://www.tvmaze.com/episodes/30054/adventure-time-2x23-video-makers",
+    "name": "Video Makers",
+    "recommended": true,
+    "season": 2,
+    "number": 23,
+    "airdate": "2011-04-18",
+    "airtime": "20:00",
+    "airstamp": "2011-04-18T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253029.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253029.jpg"
+    },
+    "summary": "Finn and Jake set out to make their own movie, but have conflicting visions of what their movie should be.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30054"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "url": "http://www.tvmaze.com/episodes/30055/adventure-time-2x24-mortal-folly",
+    "name": "Mortal Folly",
+    "recommended": true,
+    "season": 2,
+    "number": 24,
+    "airdate": "2011-05-02",
+    "airtime": "20:00",
+    "airstamp": "2011-05-02T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253030.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253030.jpg"
+    },
+    "summary": "The Lich, the greatest form of pure evil in the land of Ooo, is accidentally unleashed. With the highest stakes, Finn and Jake set out on the most serious adventure of their career.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30055"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "url": "http://www.tvmaze.com/episodes/30056/adventure-time-2x25-mortal-recoil",
+    "name": "Mortal Recoil",
+    "recommended": true,
+    "season": 2,
+    "number": 25,
+    "airdate": "2011-05-02",
+    "airtime": "20:15",
+    "airstamp": "2011-05-02T20:15:00-04:00",
+    "image": null,
+    "summary": "With the evil Lich seemingly defeated, Finn and Jake are uneasy with their success because of its great cost.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30056"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "url": "http://www.tvmaze.com/episodes/30057/adventure-time-2x26-heat-signature",
+    "name": "Heat Signature",
+    "season": 2,
+    "number": 26,
+    "airdate": "2011-05-09",
+    "airtime": "20:00",
+    "airstamp": "2011-05-09T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253031.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253031.jpg"
+    },
+    "summary": "Finn and Jake ask Marceline the Vampire Queen to turn them into vampires. However, she isn't interested in transforming her friends and tricks them into thinking she has.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30057"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "url": "http://www.tvmaze.com/episodes/30058/adventure-time-3x01-the-conquest-of-cuteness",
+    "name": "The Conquest of Cuteness",
+    "season": 3,
+    "number": 1,
+    "airdate": "2011-07-11",
+    "airtime": "20:00",
+    "airstamp": "2011-07-11T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253033.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253033.jpg"
+    },
+    "summary": "Finn and Jake's tree house is invaded by Cute King and his army of \"evil\" Cuties who decide to murder Finn and Jake.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30058"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "url": "http://www.tvmaze.com/episodes/30059/adventure-time-3x02-morituri-te-salutamus",
+    "name": "Morituri te Salutamus",
+    "season": 3,
+    "number": 2,
+    "airdate": "2011-07-18",
+    "airtime": "20:00",
+    "airstamp": "2011-07-18T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253034.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253034.jpg"
+    },
+    "summary": "Finn and Jake must fight gladiator ghosts in order to gain their freedom from the Fight King.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30059"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "url": "http://www.tvmaze.com/episodes/30060/adventure-time-3x03-memory-of-a-memory",
+    "name": "Memory of a Memory",
+    "recommended": true,
+    "season": 3,
+    "number": 3,
+    "airdate": "2011-07-25",
+    "airtime": "20:00",
+    "airstamp": "2011-07-25T20:00:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake enter Marceline's mind to retrieve a memory of a sleeping spell.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30060"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "url": "http://www.tvmaze.com/episodes/30061/adventure-time-3x04-hitman",
+    "name": "Hitman",
+    "season": 3,
+    "number": 4,
+    "airdate": "2011-08-01",
+    "airtime": "20:00",
+    "airstamp": "2011-08-01T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253035.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253035.jpg"
+    },
+    "summary": "Ice King accidentally hires a hitman to kill Finn & Jake.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30061"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "url": "http://www.tvmaze.com/episodes/30062/adventure-time-3x05-too-young",
+    "name": "Too Young",
+    "recommended": true,
+    "season": 3,
+    "number": 5,
+    "airdate": "2011-08-08",
+    "airtime": "20:00",
+    "airstamp": "2011-08-08T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253036.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253036.jpg"
+    },
+    "summary": "The Earl of Lemongrab tries to claim the throne from Princess Bubblegum, who is now 13 years old like Finn.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30062"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "url": "http://www.tvmaze.com/episodes/30063/adventure-time-3x06-the-monster",
+    "name": "The Monster",
+    "season": 3,
+    "number": 6,
+    "airdate": "2011-08-15",
+    "airtime": "20:00",
+    "airstamp": "2011-08-15T20:00:00-04:00",
+    "image": null,
+    "summary": "The king and queen of Lumpy Space ask Finn to track down their daughter and bring her home.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30063"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "url": "http://www.tvmaze.com/episodes/30064/adventure-time-3x07-still",
+    "name": "Still",
+    "season": 3,
+    "number": 7,
+    "airdate": "2011-08-22",
+    "airtime": "20:00",
+    "airstamp": "2011-08-22T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253037.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253037.jpg"
+    },
+    "summary": "Finn and Jake are frozen by the Ice King in order to become better \"friends.\"",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30064"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "url": "http://www.tvmaze.com/episodes/30065/adventure-time-3x08-wizard-battle",
+    "name": "Wizard Battle",
+    "season": 3,
+    "number": 8,
+    "airdate": "2011-08-29",
+    "airtime": "20:00",
+    "airstamp": "2011-08-29T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253038.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253038.jpg"
+    },
+    "summary": "Finn enters a wizard battle to stop Ice King from winning a kiss from Princess Bubblegum.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30065"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "url": "http://www.tvmaze.com/episodes/30066/adventure-time-3x09-adventure-time-with-fionna-and-cake",
+    "name": "Adventure Time with Fionna and Cake",
+    "recommended": true,
+    "season": 3,
+    "number": 9,
+    "airdate": "2011-09-05",
+    "airtime": "20:00",
+    "airstamp": "2011-09-05T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253039.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253039.jpg"
+    },
+    "summary": "In this gender-swapped episode, Fionna and Cake fight the evil Ice Queen from marrying Prince Gumball.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30066"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "url": "http://www.tvmaze.com/episodes/30067/adventure-time-3x10-what-was-missing",
+    "name": "What Was Missing",
+    "recommended": true,
+    "season": 3,
+    "number": 10,
+    "airdate": "2011-09-26",
+    "airtime": "20:00",
+    "airstamp": "2011-09-26T20:00:00-04:00",
+    "image": null,
+    "summary": "Finn, Jake, Princess Bubblegum, and Marceline go after an evil door lord by becoming a genuine band to get their stuff back especially everyone's in Land of Ooo.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30067"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "url": "http://www.tvmaze.com/episodes/30068/adventure-time-3x11-apple-thief",
+    "name": "Apple Thief",
+    "season": 3,
+    "number": 11,
+    "airdate": "2011-10-03",
+    "airtime": "20:00",
+    "airstamp": "2011-10-03T20:00:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake travel to a seedy part of the Candy Kingdom to track down Tree Trunks' stolen apples.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30068"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "url": "http://www.tvmaze.com/episodes/30069/adventure-time-3x12-the-creeps",
+    "name": "The Creeps",
+    "recommended": true,
+    "season": 3,
+    "number": 12,
+    "airdate": "2011-10-17",
+    "airtime": "20:00",
+    "airstamp": "2011-10-17T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253040.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253040.jpg"
+    },
+    "summary": "Finn and Jake receive an invitation to a masquerade dinner. It turns into a whodunit as guests start to meet their demise.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30069"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "url": "http://www.tvmaze.com/episodes/30070/adventure-time-3x13-from-bad-to-worse",
+    "name": "From Bad to Worse",
+    "season": 3,
+    "number": 13,
+    "airdate": "2011-10-24",
+    "airtime": "20:00",
+    "airstamp": "2011-10-24T20:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253041.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253041.jpg"
+    },
+    "summary": "A zombie epidemic strikes in Ooo... and it's Princess Bubblegum's fault.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30070"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "url": "http://www.tvmaze.com/episodes/30071/adventure-time-3x14-beautopia",
+    "name": "Beautopia",
+    "recommended": true,
+    "season": 3,
+    "number": 14,
+    "airdate": "2011-11-07",
+    "airtime": "20:00",
+    "airstamp": "2011-11-07T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253042.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253042.jpg"
+    },
+    "summary": "Susan Strong asks Finn and Jake to help fight off the Lub Glubs and regain her people's home in Beautopia.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30071"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "url": "http://www.tvmaze.com/episodes/30072/adventure-time-3x15-no-one-can-hear-you",
+    "name": "No One Can Hear You",
+    "season": 3,
+    "number": 15,
+    "airdate": "2011-11-14",
+    "airtime": "20:00",
+    "airstamp": "2011-11-14T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253043.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253043.jpg"
+    },
+    "summary": "Finn and Jake find themselves alone after the people of the Candy Kingdom vanish.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30072"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "url": "http://www.tvmaze.com/episodes/30073/adventure-time-3x16-jake-vs-me-mow",
+    "name": "Jake vs. Me-Mow",
+    "season": 3,
+    "number": 16,
+    "airdate": "2011-11-21",
+    "airtime": "20:00",
+    "airstamp": "2011-11-21T20:00:00-05:00",
+    "image": null,
+    "summary": "A tiny cat assassin infiltrates Jake's nose, blackmailing him to murder Wildberry Princess.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30073"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "url": "http://www.tvmaze.com/episodes/30074/adventure-time-3x17-thank-you",
+    "name": "Thank You",
+    "season": 3,
+    "number": 17,
+    "airdate": "2011-11-23",
+    "airtime": "20:30",
+    "airstamp": "2011-11-23T20:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253044.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253044.jpg"
+    },
+    "summary": "The Snow Golem visits the border between the Fire Kingdom and the Ice Kingdom and discovers a lost fire wolf that needed the golem's help to get home.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30074"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "url": "http://www.tvmaze.com/episodes/30075/adventure-time-3x18-the-new-frontier",
+    "name": "The New Frontier",
+    "season": 3,
+    "number": 18,
+    "airdate": "2011-11-28",
+    "airtime": "20:00",
+    "airstamp": "2011-11-28T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253045.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253045.jpg"
+    },
+    "summary": "Jake dreams about his death, and Finn takes action when events from the dream start to come true.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30075"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "url": "http://www.tvmaze.com/episodes/30076/adventure-time-3x19-holly-jolly-secrets-part-i",
+    "name": "Holly Jolly Secrets Part I",
+    "recommended": true,
+    "season": 3,
+    "number": 19,
+    "airdate": "2011-12-05",
+    "airtime": "20:00",
+    "airstamp": "2011-12-05T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253046.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253046.jpg"
+    },
+    "summary": "In Finn and Jake's holiday special, the heroes come across a video diary of the Ice King's and attempt to decipher its secrets.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30076"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "url": "http://www.tvmaze.com/episodes/30077/adventure-time-3x20-holly-jolly-secrets-part-ii",
+    "name": "Holly Jolly Secrets Part II",
+    "recommended": true,
+    "season": 3,
+    "number": 20,
+    "airdate": "2011-12-05",
+    "airtime": "20:15",
+    "airstamp": "2011-12-05T20:15:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253047.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253047.jpg"
+    },
+    "summary": "In part two of the holiday special, The Ice King tries to get his video diary back from Finn and Jake.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30077"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "url": "http://www.tvmaze.com/episodes/30078/adventure-time-3x21-marcelines-closet",
+    "name": "Marceline's Closet",
+    "season": 3,
+    "number": 21,
+    "airdate": "2011-12-12",
+    "airtime": "20:00",
+    "airstamp": "2011-12-12T20:00:00-05:00",
+    "image": null,
+    "summary": "Finn and Jake are trapped in Marceline's closet because they thought Marceline would suck their blood.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30078"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "url": "http://www.tvmaze.com/episodes/30079/adventure-time-3x22-paper-pete",
+    "name": "Paper Pete",
+    "season": 3,
+    "number": 22,
+    "airdate": "2012-01-16",
+    "airtime": "19:30",
+    "airstamp": "2012-01-16T19:30:00-05:00",
+    "image": null,
+    "summary": "The guardians of the books in the Library seek help from Finn and Jake to save them from the evil Moldos.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30079"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "url": "http://www.tvmaze.com/episodes/30080/adventure-time-3x23-another-way",
+    "name": "Another Way",
+    "season": 3,
+    "number": 23,
+    "airdate": "2012-01-23",
+    "airtime": "19:30",
+    "airstamp": "2012-01-23T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253048.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253048.jpg"
+    },
+    "summary": "Finn is freaked out by Clown Nurses, so he searches for another way to heal his and Jake's broken toes.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30080"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "url": "http://www.tvmaze.com/episodes/30081/adventure-time-3x24-ghost-princess",
+    "name": "Ghost Princess",
+    "season": 3,
+    "number": 24,
+    "airdate": "2012-01-30",
+    "airtime": "19:30",
+    "airstamp": "2012-01-30T19:30:00-05:00",
+    "image": null,
+    "summary": "Finn and Jake head into Ghost Princess' Cemetery to find the cause of her death, while she finds something greater...and more tragic.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30081"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "url": "http://www.tvmaze.com/episodes/30082/adventure-time-3x25-dads-dungeon",
+    "name": "Dad's Dungeon",
+    "recommended": true,
+    "season": 3,
+    "number": 25,
+    "airdate": "2012-02-06",
+    "airtime": "19:30",
+    "airstamp": "2012-02-06T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253049.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253049.jpg"
+    },
+    "summary": "Jake's dad presents a strange challenge to the guys when he appears to them in a holographic message.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30082"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "url": "http://www.tvmaze.com/episodes/30083/adventure-time-3x26-incendium",
+    "name": "Incendium",
+    "recommended": true,
+    "season": 3,
+    "number": 26,
+    "airdate": "2012-02-13",
+    "airtime": "19:30",
+    "airstamp": "2012-02-13T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253050.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253050.jpg"
+    },
+    "summary": "Trying to help Finn get over his hopeless feelings for Princess Bubblegum, Jake sets out to find a new princess for Finn to go out with.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30083"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "url": "http://www.tvmaze.com/episodes/30084/adventure-time-4x01-hot-to-the-touch",
+    "name": "Hot to the Touch",
+    "recommended": true,
+    "season": 4,
+    "number": 1,
+    "airdate": "2012-04-02",
+    "airtime": "19:30",
+    "airstamp": "2012-04-02T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253052.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253052.jpg"
+    },
+    "summary": "Refusing to believe that she is evil, Finn tries to win over his new crush, Flame Princess.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30084"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "url": "http://www.tvmaze.com/episodes/30085/adventure-time-4x02-five-short-graybles",
+    "name": "Five Short Graybles",
+    "recommended": true,
+    "season": 4,
+    "number": 2,
+    "airdate": "2012-04-09",
+    "airtime": "19:30",
+    "airstamp": "2012-04-09T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253053.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253053.jpg"
+    },
+    "summary": "A series of short stories all centered around the five senses.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30085"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "url": "http://www.tvmaze.com/episodes/30086/adventure-time-4x03-web-weirdos",
+    "name": "Web Weirdos",
+    "season": 4,
+    "number": 3,
+    "airdate": "2012-04-16",
+    "airtime": "19:30",
+    "airstamp": "2012-04-16T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253054.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253054.jpg"
+    },
+    "summary": "When Finn gets trapped in a giant spider web, he ends up playing marriage counselor to a couple of grumpy arachnids.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30086"
+      }
+    }
+  },
+  {
+    "id": 82,
+    "url": "http://www.tvmaze.com/episodes/30087/adventure-time-4x04-dream-of-love",
+    "name": "Dream of Love",
+    "season": 4,
+    "number": 4,
+    "airdate": "2012-04-23",
+    "airtime": "19:30",
+    "airstamp": "2012-04-23T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253055.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253055.jpg"
+    },
+    "summary": "Tree Trunks is courted by an oinking suitor, but much to Jake's dismay, this interferes with her baking habits.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30087"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "url": "http://www.tvmaze.com/episodes/30088/adventure-time-4x05-return-to-the-nightosphere",
+    "name": "Return to the Nightosphere",
+    "recommended": true,
+    "season": 4,
+    "number": 5,
+    "airdate": "2012-04-30",
+    "airtime": "19:30",
+    "airstamp": "2012-04-30T19:30:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake find themselves imprisoned in the dark realm of the Nightosphere with no memory of how they came to be there.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30088"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "url": "http://www.tvmaze.com/episodes/30089/adventure-time-4x06-daddys-little-monster",
+    "name": "Daddy's Little Monster",
+    "recommended": true,
+    "season": 4,
+    "number": 6,
+    "airdate": "2012-04-30",
+    "airtime": "19:45",
+    "airstamp": "2012-04-30T19:45:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253056.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253056.jpg"
+    },
+    "summary": "Continuing their mysterious quest in the Nightosphere, Finn and Jake must rescue their friend Marceline the Vampire Queen.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30089"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "url": "http://www.tvmaze.com/episodes/30090/adventure-time-4x07-in-your-footsteps",
+    "name": "In Your Footsteps",
+    "recommended": true,
+    "season": 4,
+    "number": 7,
+    "airdate": "2012-05-07",
+    "airtime": "19:30",
+    "airstamp": "2012-05-07T19:30:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake befriend a bear, but what are the bear's intentions?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30090"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "url": "http://www.tvmaze.com/episodes/30091/adventure-time-4x08-hug-wolf",
+    "name": "Hug Wolf",
+    "season": 4,
+    "number": 8,
+    "airdate": "2012-05-14",
+    "airtime": "19:30",
+    "airstamp": "2012-05-14T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253057.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253057.jpg"
+    },
+    "summary": "Finn discovers a hug wolf and goes through a strange transformation. Becoming a hug wolf himself!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30091"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "url": "http://www.tvmaze.com/episodes/30092/adventure-time-4x09-princess-monster-wife",
+    "name": "Princess Monster Wife",
+    "season": 4,
+    "number": 9,
+    "airdate": "2012-05-28",
+    "airtime": "19:30",
+    "airstamp": "2012-05-28T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253058.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253058.jpg"
+    },
+    "summary": "The princesses are strangely losing body parts. So, Finn and Jake investigate.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30092"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "url": "http://www.tvmaze.com/episodes/30093/adventure-time-4x10-goliad",
+    "name": "Goliad",
+    "recommended": true,
+    "season": 4,
+    "number": 10,
+    "airdate": "2012-06-04",
+    "airtime": "19:30",
+    "airstamp": "2012-06-04T19:30:00-04:00",
+    "image": null,
+    "summary": "Realizing her mortality, Princess Bubblegum creates an immortal replacement.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30093"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "url": "http://www.tvmaze.com/episodes/30094/adventure-time-4x11-beyond-this-earthly-realm",
+    "name": "Beyond this Earthly Realm",
+    "season": 4,
+    "number": 11,
+    "airdate": "2012-06-11",
+    "airtime": "19:30",
+    "airstamp": "2012-06-11T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253059.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253059.jpg"
+    },
+    "summary": "When Finn finds a porcelain lamb, it transports him into the spirit world and only the Ice King can help get him out!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30094"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "url": "http://www.tvmaze.com/episodes/30095/adventure-time-4x12-gotcha",
+    "name": "Gotcha!",
+    "season": 4,
+    "number": 12,
+    "airdate": "2012-06-18",
+    "airtime": "19:30",
+    "airstamp": "2012-06-18T19:30:00-04:00",
+    "image": null,
+    "summary": "In order to do research for her tell-all memoir about men, Lumpy Space Princess goes undercover working for Finn and Jake.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30095"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "url": "http://www.tvmaze.com/episodes/30096/adventure-time-4x13-princess-cookies",
+    "name": "Princess Cookies",
+    "season": 4,
+    "number": 13,
+    "airdate": "2012-06-25",
+    "airtime": "19:30",
+    "airstamp": "2012-06-25T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253060.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253060.jpg"
+    },
+    "summary": "Finn and Jake are called to solve a Candy Kingdom hostage crisis when a rogue cookie takes over.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30096"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "url": "http://www.tvmaze.com/episodes/30097/adventure-time-4x14-card-wars",
+    "name": "Card Wars",
+    "season": 4,
+    "number": 14,
+    "airdate": "2012-07-16",
+    "airtime": "19:30",
+    "airstamp": "2012-07-16T19:30:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake play Card Wars, an epic card game.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30097"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "url": "http://www.tvmaze.com/episodes/30098/adventure-time-4x15-sons-of-mars",
+    "name": "Sons of Mars",
+    "recommended": true,
+    "season": 4,
+    "number": 15,
+    "airdate": "2012-07-23",
+    "airtime": "19:30",
+    "airstamp": "2012-07-23T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253061.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253061.jpg"
+    },
+    "summary": "Jake becomes a copy of Magic Man after a run-in with him.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30098"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "url": "http://www.tvmaze.com/episodes/30099/adventure-time-4x16-burning-low",
+    "name": "Burning Low",
+    "recommended": true,
+    "season": 4,
+    "number": 16,
+    "airdate": "2012-07-30",
+    "airtime": "19:30",
+    "airstamp": "2012-07-30T19:30:00-04:00",
+    "image": null,
+    "summary": "Princess Bubblegum may be jealous when Finn starts hanging out with Flame Princess.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30099"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "url": "http://www.tvmaze.com/episodes/30100/adventure-time-4x17-bmo-noire",
+    "name": "BMO Noire",
+    "season": 4,
+    "number": 17,
+    "airdate": "2012-08-06",
+    "airtime": "19:30",
+    "airstamp": "2012-08-06T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253062.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253062.jpg"
+    },
+    "summary": "BMO tries to find Finn's sock.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30100"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "url": "http://www.tvmaze.com/episodes/30101/adventure-time-4x18-king-worm",
+    "name": "King Worm",
+    "recommended": true,
+    "season": 4,
+    "number": 18,
+    "airdate": "2012-08-13",
+    "airtime": "19:30",
+    "airstamp": "2012-08-13T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253063.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253063.jpg"
+    },
+    "summary": "All of Ooo appears in Finn's vivid dream.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30101"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "url": "http://www.tvmaze.com/episodes/30102/adventure-time-4x19-lady-peebles",
+    "name": "Lady & Peebles",
+    "season": 4,
+    "number": 19,
+    "airdate": "2012-08-20",
+    "airtime": "19:30",
+    "airstamp": "2012-08-20T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253064.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253064.jpg"
+    },
+    "summary": "Princess Bubblegum and Lady Rainicorn search for a missing Finn and Jake.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30102"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "url": "http://www.tvmaze.com/episodes/30103/adventure-time-4x20-you-made-me",
+    "name": "You Made Me",
+    "recommended": true,
+    "season": 4,
+    "number": 20,
+    "airdate": "2012-08-27",
+    "airtime": "19:30",
+    "airstamp": "2012-08-27T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253065.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253065.jpg"
+    },
+    "summary": "When a creepy sleep-peeping Lemongrab upsets Princess Bubblegum with his creepy ways, Finn and Jake need to tend to some issues in the Outer Realm.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30103"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "url": "http://www.tvmaze.com/episodes/30104/adventure-time-4x21-who-would-win",
+    "name": "Who Would Win",
+    "season": 4,
+    "number": 21,
+    "airdate": "2012-09-03",
+    "airtime": "19:30",
+    "airstamp": "2012-09-03T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253066.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253066.jpg"
+    },
+    "summary": "Finn and Jake challenge a monster to a fight but end up battling each other.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30104"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "url": "http://www.tvmaze.com/episodes/30105/adventure-time-4x22-ignition-point",
+    "name": "Ignition Point",
+    "recommended": true,
+    "season": 4,
+    "number": 22,
+    "airdate": "2012-09-17",
+    "airtime": "19:30",
+    "airstamp": "2012-09-17T19:30:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake sneak into the Fire Kingdom and are caught in a family feud.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30105"
+      }
+    }
+  },
+  {
+    "id": 101,
+    "url": "http://www.tvmaze.com/episodes/30106/adventure-time-4x23-the-hard-easy",
+    "name": "The Hard Easy",
+    "season": 4,
+    "number": 23,
+    "airdate": "2012-10-01",
+    "airtime": "19:30",
+    "airstamp": "2012-10-01T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253067.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253067.jpg"
+    },
+    "summary": "Mudscamps seek protection from the Mega Frog who's attacking their swamp.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30106"
+      }
+    }
+  },
+  {
+    "id": 102,
+    "url": "http://www.tvmaze.com/episodes/30107/adventure-time-4x24-reign-of-gunters",
+    "name": "Reign of Gunters",
+    "season": 4,
+    "number": 24,
+    "airdate": "2012-10-08",
+    "airtime": "19:30",
+    "airstamp": "2012-10-08T19:30:00-04:00",
+    "image": null,
+    "summary": "Gunter and his doppleganger cause chaos in Ooo.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30107"
+      }
+    }
+  },
+  {
+    "id": 103,
+    "url": "http://www.tvmaze.com/episodes/30108/adventure-time-4x25-i-remember-you",
+    "name": "I Remember You",
+    "recommended": true,
+    "season": 4,
+    "number": 25,
+    "airdate": "2012-10-15",
+    "airtime": "19:30",
+    "airstamp": "2012-10-15T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253068.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253068.jpg"
+    },
+    "summary": "Ice King and Marceline bond over memories.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30108"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "url": "http://www.tvmaze.com/episodes/30109/adventure-time-4x26-the-lich",
+    "name": "The Lich",
+    "recommended": true,
+    "season": 4,
+    "number": 26,
+    "airdate": "2012-10-22",
+    "airtime": "19:30",
+    "airstamp": "2012-10-22T19:30:00-04:00",
+    "image": null,
+    "summary": "Finn has an unclear premonition involving The Lich and sets out to stop the undead creature.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30109"
+      }
+    }
+  },
+  {
+    "id": 105,
+    "url": "http://www.tvmaze.com/episodes/30110/adventure-time-5x01-finn-the-human",
+    "name": "Finn the Human",
+    "recommended": true,
+    "season": 5,
+    "number": 1,
+    "airdate": "2012-11-12",
+    "airtime": "19:30",
+    "airstamp": "2012-11-12T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253070.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253070.jpg"
+    },
+    "summary": "After chasing the Lich through the portal, Finn and Jake meet a wishmaster named Prismo.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30110"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "url": "http://www.tvmaze.com/episodes/30111/adventure-time-5x02-jake-the-dog",
+    "name": "Jake the Dog",
+    "recommended": true,
+    "season": 5,
+    "number": 2,
+    "airdate": "2012-11-12",
+    "airtime": "19:45",
+    "airstamp": "2012-11-12T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253071.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253071.jpg"
+    },
+    "summary": "Jake and Prismo watch from the portal as the Ice King's crown makes Finn more and more powerful.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30111"
+      }
+    }
+  },
+  {
+    "id": 107,
+    "url": "http://www.tvmaze.com/episodes/30112/adventure-time-5x03-five-more-short-graybles",
+    "name": "Five More Short Graybles",
+    "recommended": true,
+    "season": 5,
+    "number": 3,
+    "airdate": "2012-11-19",
+    "airtime": "19:30",
+    "airstamp": "2012-11-19T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253072.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253072.jpg"
+    },
+    "summary": "Finn and Jake stick their thumbs in everything; Marceline tries to find her way to Wizard Bill's Music Shop; Ice King gets a new bride.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30112"
+      }
+    }
+  },
+  {
+    "id": 108,
+    "url": "http://www.tvmaze.com/episodes/30113/adventure-time-5x04-up-a-tree",
+    "name": "Up a Tree",
+    "season": 5,
+    "number": 4,
+    "airdate": "2012-11-26",
+    "airtime": "19:30",
+    "airstamp": "2012-11-26T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253073.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253073.jpg"
+    },
+    "summary": "Finn and Jake are playing catch when Finn accidentally tosses their throwing disc into a gigantic tree.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30113"
+      }
+    }
+  },
+  {
+    "id": 109,
+    "url": "http://www.tvmaze.com/episodes/30114/adventure-time-5x05-all-the-little-people",
+    "name": "All the Little People",
+    "season": 5,
+    "number": 5,
+    "airdate": "2012-12-03",
+    "airtime": "19:30",
+    "airstamp": "2012-12-03T19:30:00-05:00",
+    "image": null,
+    "summary": "Magic Man secretly slips Finn a bag filled with miniature versions of Finn and all his friends.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30114"
+      }
+    }
+  },
+  {
+    "id": 110,
+    "url": "http://www.tvmaze.com/episodes/30115/adventure-time-5x06-jake-the-dad",
+    "name": "Jake the Dad",
+    "recommended": true,
+    "season": 5,
+    "number": 6,
+    "airdate": "2013-01-07",
+    "airtime": "19:30",
+    "airstamp": "2013-01-07T19:30:00-05:00",
+    "image": null,
+    "summary": "Jake's a daddy, but being a father and keeping his rainicorn pups from killing themselves or each other is a lot harder than he imagined.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30115"
+      }
+    }
+  },
+  {
+    "id": 111,
+    "url": "http://www.tvmaze.com/episodes/30116/adventure-time-5x07-davey",
+    "name": "Davey",
+    "season": 5,
+    "number": 7,
+    "airdate": "2013-01-14",
+    "airtime": "19:30",
+    "airstamp": "2013-01-14T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253074.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253074.jpg"
+    },
+    "summary": "Finn can't go anywhere without folks stopping to thank him for being a hero.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30116"
+      }
+    }
+  },
+  {
+    "id": 112,
+    "url": "http://www.tvmaze.com/episodes/30117/adventure-time-5x08-mystery-dungeon",
+    "name": "Mystery Dungeon",
+    "season": 5,
+    "number": 8,
+    "airdate": "2013-01-21",
+    "airtime": "19:30",
+    "airstamp": "2013-01-21T19:30:00-05:00",
+    "image": null,
+    "summary": "Ice King, NEPTR, Tree Trunks, Shelby and Lemongrab are trapped inside a mysterious dungeon and must work together to free themselves.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30117"
+      }
+    }
+  },
+  {
+    "id": 113,
+    "url": "http://www.tvmaze.com/episodes/30118/adventure-time-5x09-all-your-fault",
+    "name": "All Your Fault",
+    "recommended": true,
+    "season": 5,
+    "number": 9,
+    "airdate": "2013-01-28",
+    "airtime": "19:30",
+    "airstamp": "2013-01-28T19:30:00-05:00",
+    "image": null,
+    "summary": "Princess Bubblegum sends Finn and Jake to investigate a message of distress from the Earls of Lemongrab.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30118"
+      }
+    }
+  },
+  {
+    "id": 114,
+    "url": "http://www.tvmaze.com/episodes/30119/adventure-time-5x10-little-dude",
+    "name": "Little Dude",
+    "season": 5,
+    "number": 10,
+    "airdate": "2013-02-04",
+    "airtime": "19:30",
+    "airstamp": "2013-02-04T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253075.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253075.jpg"
+    },
+    "summary": "While Finn & Jake go swimming, Finn's hat magically comes to life!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30119"
+      }
+    }
+  },
+  {
+    "id": 115,
+    "url": "http://www.tvmaze.com/episodes/30120/adventure-time-5x11-bad-little-boy",
+    "name": "Bad Little Boy",
+    "recommended": true,
+    "season": 5,
+    "number": 11,
+    "airdate": "2013-02-18",
+    "airtime": "19:45",
+    "airstamp": "2013-02-18T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253076.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253076.jpg"
+    },
+    "summary": "The princesses are sick and tired of Ice King's crazy Fionna & Cake stories, so Marceline stops by the Ice Kingdom to show him how it's done.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30120"
+      }
+    }
+  },
+  {
+    "id": 116,
+    "url": "http://www.tvmaze.com/episodes/30121/adventure-time-5x12-vault-of-bones",
+    "name": "Vault of Bones",
+    "recommended": true,
+    "season": 5,
+    "number": 12,
+    "airdate": "2013-02-25",
+    "airtime": "19:30",
+    "airstamp": "2013-02-25T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253077.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253077.jpg"
+    },
+    "summary": "Finn's worried that Flame Princess still has evil tendencies in her and wants to shift her alignment to good.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30121"
+      }
+    }
+  },
+  {
+    "id": 117,
+    "url": "http://www.tvmaze.com/episodes/30122/adventure-time-5x13-the-great-bird-man",
+    "name": "The Great Bird Man",
+    "season": 5,
+    "number": 13,
+    "airdate": "2013-03-04",
+    "airtime": "19:30",
+    "airstamp": "2013-03-04T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253078.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253078.jpg"
+    },
+    "summary": "Finn and Jake get lost in the badlands and are saved by Xergiok, ex-Goblin King who now lives in cave.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30122"
+      }
+    }
+  },
+  {
+    "id": 118,
+    "url": "http://www.tvmaze.com/episodes/30123/adventure-time-5x14-simon-marcy",
+    "name": "Simon & Marcy",
+    "recommended": true,
+    "season": 5,
+    "number": 14,
+    "airdate": "2013-03-25",
+    "airtime": "19:30",
+    "airstamp": "2013-03-25T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253079.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253079.jpg"
+    },
+    "summary": "A look at what Ice King and Marceline were like 996 years ago.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30123"
+      }
+    }
+  },
+  {
+    "id": 119,
+    "url": "http://www.tvmaze.com/episodes/30124/adventure-time-5x15-a-glitch-is-a-glitch",
+    "name": "A Glitch is a Glitch",
+    "season": 5,
+    "number": 15,
+    "airdate": "2013-04-01",
+    "airtime": "19:30",
+    "airstamp": "2013-04-01T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253080.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253080.jpg"
+    },
+    "summary": "Ice King creates a computer virus to delete everybody except him and Princess Bubblegum.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30124"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "url": "http://www.tvmaze.com/episodes/30125/adventure-time-5x16-puhoy",
+    "name": "Puhoy",
+    "recommended": true,
+    "season": 5,
+    "number": 16,
+    "airdate": "2013-04-08",
+    "airtime": "19:30",
+    "airstamp": "2013-04-08T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253081.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253081.jpg"
+    },
+    "summary": "Stuck inside the treehouse during a sword storm, Jake builds a pillow fort while Finn goes to a different world.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30125"
+      }
+    }
+  },
+  {
+    "id": 121,
+    "url": "http://www.tvmaze.com/episodes/30126/adventure-time-5x17-bmo-lost",
+    "name": "BMO Lost",
+    "season": 5,
+    "number": 17,
+    "airdate": "2013-04-15",
+    "airtime": "19:30",
+    "airstamp": "2013-04-15T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253082.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253082.jpg"
+    },
+    "summary": "BMO gets snatched away by a giant eagle and must find his way home.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30126"
+      }
+    }
+  },
+  {
+    "id": 122,
+    "url": "http://www.tvmaze.com/episodes/30127/adventure-time-5x18-princess-potluck",
+    "name": "Princess Potluck",
+    "season": 5,
+    "number": 18,
+    "airdate": "2013-04-22",
+    "airtime": "19:30",
+    "airstamp": "2013-04-22T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253083.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253083.jpg"
+    },
+    "summary": "Ice King gets super jealous when he finds out that he wasn't invited to the Princess Potluck.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30127"
+      }
+    }
+  },
+  {
+    "id": 123,
+    "url": "http://www.tvmaze.com/episodes/30128/adventure-time-5x19-james-baxter-the-horse",
+    "name": "James Baxter the Horse",
+    "season": 5,
+    "number": 19,
+    "airdate": "2013-05-06",
+    "airtime": "19:30",
+    "airstamp": "2013-05-06T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253084.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253084.jpg"
+    },
+    "summary": "Finn and Jake meet a horse with the power to make sad people happy.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30128"
+      }
+    }
+  },
+  {
+    "id": 124,
+    "url": "http://www.tvmaze.com/episodes/30129/adventure-time-5x20-shh",
+    "name": "Shh!",
+    "season": 5,
+    "number": 20,
+    "airdate": "2013-05-13",
+    "airtime": "19:30",
+    "airstamp": "2013-05-13T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253085.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253085.jpg"
+    },
+    "summary": "Finn and Jake hold a contest to see who can last longer without talking.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30129"
+      }
+    }
+  },
+  {
+    "id": 125,
+    "url": "http://www.tvmaze.com/episodes/30130/adventure-time-5x21-the-suitor",
+    "name": "The Suitor",
+    "recommended": true,
+    "season": 5,
+    "number": 21,
+    "airdate": "2013-05-20",
+    "airtime": "19:30",
+    "airstamp": "2013-05-20T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253086.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253086.jpg"
+    },
+    "summary": "Peppermint Butler thinks Princess Bubblegum is spending too much time in her lab and decides she needs a suitor.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30130"
+      }
+    }
+  },
+  {
+    "id": 126,
+    "url": "http://www.tvmaze.com/episodes/30131/adventure-time-5x22-the-partys-over-isla-de-senorita",
+    "name": "The Party's Over, Isla de Señorita",
+    "season": 5,
+    "number": 22,
+    "airdate": "2013-05-27",
+    "airtime": "19:30",
+    "airstamp": "2013-05-27T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253087.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253087.jpg"
+    },
+    "summary": "His kidnapping scheme foiled again for like the millionth time, Ice King decides he's had enough.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30131"
+      }
+    }
+  },
+  {
+    "id": 127,
+    "url": "http://www.tvmaze.com/episodes/30132/adventure-time-5x23-one-last-job",
+    "name": "One Last Job",
+    "recommended": true,
+    "season": 5,
+    "number": 23,
+    "airdate": "2013-06-10",
+    "airtime": "19:30",
+    "airstamp": "2013-06-10T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253088.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253088.jpg"
+    },
+    "summary": "Jake Jr. gets mixed up with some bad eggs and Jake has to reunite with his old gang for one last job to save him.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30132"
+      }
+    }
+  },
+  {
+    "id": 128,
+    "url": "http://www.tvmaze.com/episodes/30133/adventure-time-5x24-another-5-short-graybles",
+    "name": "Another 5 Short Graybles",
+    "recommended": true,
+    "season": 5,
+    "number": 24,
+    "airdate": "2013-06-17",
+    "airtime": "19:30",
+    "airstamp": "2013-06-17T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253089.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253089.jpg"
+    },
+    "summary": "Why are Finn and Jake building a time machine? Can Princess Bubblegum help Cinnamon Bun conquer his fear of the dark?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30133"
+      }
+    }
+  },
+  {
+    "id": 129,
+    "url": "http://www.tvmaze.com/episodes/30134/adventure-time-5x25-candy-streets",
+    "name": "Candy Streets",
+    "season": 5,
+    "number": 25,
+    "airdate": "2013-06-24",
+    "airtime": "19:30",
+    "airstamp": "2013-06-24T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253090.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253090.jpg"
+    },
+    "summary": "LSP is robbed and faints before she can tell Finn and Jake who robbed her.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30134"
+      }
+    }
+  },
+  {
+    "id": 130,
+    "url": "http://www.tvmaze.com/episodes/30135/adventure-time-5x26-wizards-only-fools",
+    "name": "Wizards Only, Fools",
+    "season": 5,
+    "number": 26,
+    "airdate": "2013-07-01",
+    "airtime": "19:30",
+    "airstamp": "2013-07-01T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253091.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253091.jpg"
+    },
+    "summary": "Princess Bubblegum believes magic is nothing but a bunch of hooey, but when Starchy gets sick and asks her to use magic to cure him, she asks Finn and Jake to help her sneak into Wizard City to get a cold spell.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30135"
+      }
+    }
+  },
+  {
+    "id": 131,
+    "url": "http://www.tvmaze.com/episodes/30136/adventure-time-5x27-jake-suit",
+    "name": "Jake Suit",
+    "season": 5,
+    "number": 27,
+    "airdate": "2013-07-15",
+    "airtime": "19:30",
+    "airstamp": "2013-07-15T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253092.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253092.jpg"
+    },
+    "summary": "Jake is sick and tired of Finn using his body as a suit of armor, so he convinces Finn to trade places to show him how much it really stinks.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30136"
+      }
+    }
+  },
+  {
+    "id": 132,
+    "url": "http://www.tvmaze.com/episodes/30137/adventure-time-5x28-be-more",
+    "name": "Be More",
+    "recommended": true,
+    "season": 5,
+    "number": 28,
+    "airdate": "2013-07-22",
+    "airtime": "19:30",
+    "airstamp": "2013-07-22T19:30:00-04:00",
+    "image": null,
+    "summary": "Finn and Jake disguise themselves as MOs in order to infiltrate the MO factory in hopes of saving BMO from malfunctioning.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30137"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "url": "http://www.tvmaze.com/episodes/30138/adventure-time-5x29-sky-witch",
+    "name": "Sky Witch",
+    "recommended": true,
+    "season": 5,
+    "number": 29,
+    "airdate": "2013-07-29",
+    "airtime": "19:30",
+    "airstamp": "2013-07-29T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253093.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253093.jpg"
+    },
+    "summary": "Marceline is on a top-secret mission tracking Maja the Sky Witch. But when she loses the witch's trail, Marceline turns to Princess Bubblegum for help.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30138"
+      }
+    }
+  },
+  {
+    "id": 134,
+    "url": "http://www.tvmaze.com/episodes/30139/adventure-time-5x30-frost-fire",
+    "name": "Frost & Fire",
+    "recommended": true,
+    "season": 5,
+    "number": 30,
+    "airdate": "2013-08-05",
+    "airtime": "19:30",
+    "airstamp": "2013-08-05T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253094.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253094.jpg"
+    },
+    "summary": "After Flame Princess battles Ice King, Finn has an exciting dream. But when it abruptly ends, Finn must get FP and IK to fight again to find out how it ends.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30139"
+      }
+    }
+  },
+  {
+    "id": 135,
+    "url": "http://www.tvmaze.com/episodes/30140/adventure-time-5x31-too-old",
+    "name": "Too Old",
+    "recommended": true,
+    "season": 5,
+    "number": 31,
+    "airdate": "2013-08-12",
+    "airtime": "19:30",
+    "airstamp": "2013-08-12T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253095.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253095.jpg"
+    },
+    "summary": "Finn, Jake and PB discover a talented mutant named Lemonsqueak at The Pageant of Mutants. Now they must find a way to free him from the lemongrabs.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30140"
+      }
+    }
+  },
+  {
+    "id": 136,
+    "url": "http://www.tvmaze.com/episodes/30141/adventure-time-5x32-earth-water",
+    "name": "Earth & Water",
+    "recommended": true,
+    "season": 5,
+    "number": 32,
+    "airdate": "2013-09-02",
+    "airtime": "19:00",
+    "airstamp": "2013-09-02T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253096.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253096.jpg"
+    },
+    "summary": "Princess Bubblegum subjects Flame Princess to a series of tests to gauge FP's fiery tendencies. But when there's an emergency at the treehouse, and PB leaves Cinnamon Bun to watch Flame Princess, her experiment might literally backfire in her face.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30141"
+      }
+    }
+  },
+  {
+    "id": 137,
+    "url": "http://www.tvmaze.com/episodes/30142/adventure-time-5x33-time-sandwich",
+    "name": "Time Sandwich",
+    "season": 5,
+    "number": 33,
+    "airdate": "2013-09-09",
+    "airtime": "19:00",
+    "airstamp": "2013-09-09T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253097.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253097.jpg"
+    },
+    "summary": "Jake crafts the most delicious sandwich ever, but when Magic Man steals it, Finn must defy the laws of space and time to win back Jake's creation.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30142"
+      }
+    }
+  },
+  {
+    "id": 138,
+    "url": "http://www.tvmaze.com/episodes/30143/adventure-time-5x34-the-vault",
+    "name": "The Vault",
+    "recommended": true,
+    "season": 5,
+    "number": 34,
+    "airdate": "2013-09-16",
+    "airtime": "19:00",
+    "airstamp": "2013-09-16T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253098.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253098.jpg"
+    },
+    "summary": "When Finn starts sleepwalking and dreaming about the Green Lady he filed away in his memory vault, Jake and BMO help him tap into his repressed memories to uncover a secret past. Who is the Green Lady? And how is she connected to Finn?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30143"
+      }
+    }
+  },
+  {
+    "id": 139,
+    "url": "http://www.tvmaze.com/episodes/30144/adventure-time-5x35-love-games",
+    "name": "Love Games",
+    "season": 5,
+    "number": 35,
+    "airdate": "2013-09-23",
+    "airtime": "19:00",
+    "airstamp": "2013-09-23T19:00:00-04:00",
+    "image": null,
+    "summary": "Slime Princess needs a husband or else she'll lose the Slime Kingdom to her obnoxious sis. Finn steps in to save the day, but first they will need to win a series of Love Games to prove to Slime Princess's dad that they are really in love. This is definitely NOT what Finn signed up for!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30144"
+      }
+    }
+  },
+  {
+    "id": 140,
+    "url": "http://www.tvmaze.com/episodes/30145/adventure-time-5x36-dungeon-train",
+    "name": "Dungeon Train",
+    "season": 5,
+    "number": 36,
+    "airdate": "2013-09-30",
+    "airtime": "19:00",
+    "airstamp": "2013-09-30T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253099.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253099.jpg"
+    },
+    "summary": "All aboard! Finn and Jake discover a train where every car is a dungeon filled with a new foe for Finn to fight. Jake quickly gets bored and wants to leave, but Finn is having the BEST time and doesn't want to leave... ever!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30145"
+      }
+    }
+  },
+  {
+    "id": 141,
+    "url": "http://www.tvmaze.com/episodes/30146/adventure-time-5x37-the-box-prince",
+    "name": "The Box Prince",
+    "season": 5,
+    "number": 37,
+    "airdate": "2013-10-07",
+    "airtime": "19:00",
+    "airstamp": "2013-10-07T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253100.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253100.jpg"
+    },
+    "summary": "Finn meets the Box Prince (a cat with a box on its back) and discovers the Box Kingdom has been taken over by an imposter. Now, Finn must help the real Box Prince reclaim his rightful throne.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30146"
+      }
+    }
+  },
+  {
+    "id": 142,
+    "url": "http://www.tvmaze.com/episodes/30147/adventure-time-5x38-red-starved",
+    "name": "Red Starved",
+    "recommended": true,
+    "season": 5,
+    "number": 38,
+    "airdate": "2013-10-14",
+    "airtime": "19:00",
+    "airstamp": "2013-10-14T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253101.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253101.jpg"
+    },
+    "summary": "Finn, Jake and Marceline are trapped in an underground cavern with no red in sight. If Marceline doesn't feed, like ASAP, she will turn into a vampiric beast and suck out all of Jake's blood! So, Finn heads off to explore the cave and find something red to satiate her until they can be rescued. But time is running out!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30147"
+      }
+    }
+  },
+  {
+    "id": 143,
+    "url": "http://www.tvmaze.com/episodes/30148/adventure-time-5x39-we-fixed-a-truck",
+    "name": "We Fixed a Truck",
+    "season": 5,
+    "number": 39,
+    "airdate": "2013-10-21",
+    "airtime": "19:00",
+    "airstamp": "2013-10-21T19:00:00-04:00",
+    "image": null,
+    "summary": "Finn finds an old truck, and Jake calls Banana Man to help with the repairs. But when BMO stays up all night working on the truck, he hears on a spooky radio talk show that Princess Bubblegum is a reptilian replicant. Is it just another one of Starchy's crazy conspiracy theories, or a fact?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30148"
+      }
+    }
+  },
+  {
+    "id": 144,
+    "url": "http://www.tvmaze.com/episodes/30149/adventure-time-5x40-play-date",
+    "name": "Play Date",
+    "recommended": true,
+    "season": 5,
+    "number": 40,
+    "airdate": "2013-11-04",
+    "airtime": "19:00",
+    "airstamp": "2013-11-04T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253102.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253102.jpg"
+    },
+    "summary": "Sick and tired of babysitting Ice King while the Ice Kingdom is being rebuilt, Finn and Jake call up an old friend to hang out with their annoying houseguest: Abracadaniel. But when Ice King and his new BFF accidentally unleash the demon Kee-Oth, Finn and Jake have to clean up their mess.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30149"
+      }
+    }
+  },
+  {
+    "id": 145,
+    "url": "http://www.tvmaze.com/episodes/30150/adventure-time-5x41-the-pit",
+    "name": "The Pit",
+    "recommended": true,
+    "season": 5,
+    "number": 41,
+    "airdate": "2013-11-18",
+    "airtime": "19:00",
+    "airstamp": "2013-11-18T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253103.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253103.jpg"
+    },
+    "summary": "Kee-Oth the Blood Demon has kidnapped Jake, taken him back to his dimension and thrown him in a pit. If Finn wants to rescue his friend, he's going to need Lady Rainicorn's help... and a videotape that will reveal how to open the portal to Kee-Oth's messed-up dimension.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30150"
+      }
+    }
+  },
+  {
+    "id": 146,
+    "url": "http://www.tvmaze.com/episodes/30151/adventure-time-5x42-james",
+    "name": "James",
+    "recommended": true,
+    "season": 5,
+    "number": 42,
+    "airdate": "2013-11-25",
+    "airtime": "19:00",
+    "airstamp": "2013-11-25T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253104.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253104.jpg"
+    },
+    "summary": "Finn & Jake are excited when Princess Bubblegum invites them to help her collect samples in the Desert of Wonders. But when their vessel is attacked by nasty goo monsters, Finn & Jake start to think the mission has been sabotaged by PB's robot helper James.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30151"
+      }
+    }
+  },
+  {
+    "id": 147,
+    "url": "http://www.tvmaze.com/episodes/30152/adventure-time-5x43-root-beer-guy",
+    "name": "Root Beer Guy",
+    "recommended": true,
+    "season": 5,
+    "number": 43,
+    "airdate": "2013-12-02",
+    "airtime": "19:00",
+    "airstamp": "2013-12-02T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253105.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253105.jpg"
+    },
+    "summary": "Root Beer Guy works a boring job during the day and tries to write mystery stories at night. But his life is about to change when he witnesses Finn & Jake kidnapping Princess Bubblegum! There's only one problem: no one believes Root Beer Guy...",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30152"
+      }
+    }
+  },
+  {
+    "id": 148,
+    "url": "http://www.tvmaze.com/episodes/30153/adventure-time-5x44-apple-wedding",
+    "name": "Apple Wedding",
+    "season": 5,
+    "number": 44,
+    "airdate": "2014-01-13",
+    "airtime": "19:00",
+    "airstamp": "2014-01-13T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253106.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253106.jpg"
+    },
+    "summary": "You are cordially invited to the Wedding of the Year! But who will be united in matrimony?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30153"
+      }
+    }
+  },
+  {
+    "id": 149,
+    "url": "http://www.tvmaze.com/episodes/30154/adventure-time-5x45-blade-of-grass",
+    "name": "Blade of Grass",
+    "recommended": true,
+    "season": 5,
+    "number": 45,
+    "airdate": "2014-01-20",
+    "airtime": "19:00",
+    "airstamp": "2014-01-20T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253107.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253107.jpg"
+    },
+    "summary": "Finn and Jake decide it's time for Finn to get a new sword. Finn reluctantly buys a grass sword from a mysterious old man, but the sword turns out to be cursed! And unfortunately for our hero, all sales are final.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30154"
+      }
+    }
+  },
+  {
+    "id": 150,
+    "url": "http://www.tvmaze.com/episodes/30155/adventure-time-5x46-rattleballs",
+    "name": "Rattleballs",
+    "recommended": true,
+    "season": 5,
+    "number": 46,
+    "airdate": "2014-01-27",
+    "airtime": "19:00",
+    "airstamp": "2014-01-27T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253108.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253108.jpg"
+    },
+    "summary": "Finn practices his sword fighting skills at the candy junkyard, where he meets an old gumball robot named Rattleballs. To Finn's shock, he finds out he's NOT the master swordsman he thinks he is. What the what?! Finn begs Rattleballs to train him, but he soon discovers his mentor's deep, dark secret... a secret that will ultimately test Finn's loyalty to Princess Bubblegum.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30155"
+      }
+    }
+  },
+  {
+    "id": 151,
+    "url": "http://www.tvmaze.com/episodes/30156/adventure-time-5x47-the-red-throne",
+    "name": "The Red Throne",
+    "recommended": true,
+    "season": 5,
+    "number": 47,
+    "airdate": "2014-02-10",
+    "airtime": "19:00",
+    "airstamp": "2014-02-10T19:00:00-05:00",
+    "image": null,
+    "summary": "When Flame King breaks out of his prison and takes over the Flame Kingdom again, Flame Princess turns to the one person she believes she can trust... Finn! But will Finn be able to put his feelings for Flame Princess aside long enough to help her reclaim her throne?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30156"
+      }
+    }
+  },
+  {
+    "id": 152,
+    "url": "http://www.tvmaze.com/episodes/30157/adventure-time-5x48-betty",
+    "name": "Betty",
+    "recommended": true,
+    "season": 5,
+    "number": 48,
+    "airdate": "2014-02-24",
+    "airtime": "19:00",
+    "airstamp": "2014-02-24T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253109.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253109.jpg"
+    },
+    "summary": "In Wizard City, a magic spell backfires and turns Ice King back into Simon. Now with Finn, Jake and Marceline's help, Simon finds a way to bring his beloved Betty back. Finally reunited with the love of his life, everything is great! There's just one catch...without his magic crown, Simon will die.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30157"
+      }
+    }
+  },
+  {
+    "id": 153,
+    "url": "http://www.tvmaze.com/episodes/30158/adventure-time-5x49-bad-timing",
+    "name": "Bad Timing",
+    "season": 5,
+    "number": 49,
+    "airdate": "2014-03-03",
+    "airtime": "19:00",
+    "airstamp": "2014-03-03T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253110.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253110.jpg"
+    },
+    "summary": "Love is in the air when Lumpy Space Princess reconnects with an old classmate, but will her jealousy get in the way of finding true love?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30158"
+      }
+    }
+  },
+  {
+    "id": 154,
+    "url": "http://www.tvmaze.com/episodes/30159/adventure-time-5x50-lemonhope-part-i",
+    "name": "Lemonhope Part I",
+    "recommended": true,
+    "season": 5,
+    "number": 50,
+    "airdate": "2014-03-10",
+    "airtime": "19:00",
+    "airstamp": "2014-03-10T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253111.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253111.jpg"
+    },
+    "summary": "Tired of all of Princess Bubblegum's talk about \"responsibility,\" Lemonhope yearns for true freedom. So he sets off on the greatest adventure of his lemony life.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30159"
+      }
+    }
+  },
+  {
+    "id": 155,
+    "url": "http://www.tvmaze.com/episodes/30160/adventure-time-5x51-lemonhope-part-ii",
+    "name": "Lemonhope Part II",
+    "recommended": true,
+    "season": 5,
+    "number": 51,
+    "airdate": "2014-03-10",
+    "airtime": "19:15",
+    "airstamp": "2014-03-10T19:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253112.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253112.jpg"
+    },
+    "summary": "Though Lemonhope finds refuge from the desert with monster hunter Phlannel Boxingday, he might not be able to escape the ghosts of his past.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30160"
+      }
+    }
+  },
+  {
+    "id": 156,
+    "url": "http://www.tvmaze.com/episodes/30161/adventure-time-5x52-billys-bucket-list",
+    "name": "Billy's Bucket List",
+    "recommended": true,
+    "season": 5,
+    "number": 52,
+    "airdate": "2014-03-17",
+    "airtime": "19:00",
+    "airstamp": "2014-03-17T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253113.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253113.jpg"
+    },
+    "summary": "Finn finds the hero Billy's bucket list and ecides to complete the unfiished items as a final tribute.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30161"
+      }
+    }
+  },
+  {
+    "id": 157,
+    "url": "http://www.tvmaze.com/episodes/30162/adventure-time-6x01-wake-up",
+    "name": "Wake Up",
+    "recommended": true,
+    "season": 6,
+    "number": 1,
+    "airdate": "2014-04-21",
+    "airtime": "18:00",
+    "airstamp": "2014-04-21T18:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253115.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253115.jpg"
+    },
+    "summary": "In order to find Finn's father, Finn and Jame must commit a cosmic crime...unless the Lich beats them to it.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30162"
+      }
+    }
+  },
+  {
+    "id": 158,
+    "url": "http://www.tvmaze.com/episodes/30163/adventure-time-6x02-escape-from-the-citadel",
+    "name": "Escape from the Citadel",
+    "recommended": true,
+    "season": 6,
+    "number": 2,
+    "airdate": "2014-04-21",
+    "airtime": "18:15",
+    "airstamp": "2014-04-21T18:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253116.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253116.jpg"
+    },
+    "summary": "Finn and Jake follow the Lich of the Citadel, where Finn meets his long \nlost dad. But just how far does the apple fall from the tree?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30163"
+      }
+    }
+  },
+  {
+    "id": 159,
+    "url": "http://www.tvmaze.com/episodes/30164/adventure-time-6x03-james-ii",
+    "name": "James II",
+    "recommended": true,
+    "season": 6,
+    "number": 3,
+    "airdate": "2014-04-28",
+    "airtime": "18:00",
+    "airstamp": "2014-04-28T18:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253117.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253117.jpg"
+    },
+    "summary": "Finn and Jake discover that Clone James has been faking his own death to collect medals. But there are 25 Jameses running amok!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30164"
+      }
+    }
+  },
+  {
+    "id": 160,
+    "url": "http://www.tvmaze.com/episodes/30165/adventure-time-6x04-the-tower",
+    "name": "The Tower",
+    "recommended": true,
+    "season": 6,
+    "number": 4,
+    "airdate": "2014-05-05",
+    "airtime": "18:00",
+    "airstamp": "2014-05-05T18:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253118.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253118.jpg"
+    },
+    "summary": "Finn doesn't like any of the new arms the princesses give him, so he builts a tower into space to find his dad and get his old arm back.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30165"
+      }
+    }
+  },
+  {
+    "id": 161,
+    "url": "http://www.tvmaze.com/episodes/30166/adventure-time-6x05-sad-face",
+    "name": "Sad Face",
+    "season": 6,
+    "number": 5,
+    "airdate": "2014-05-12",
+    "airtime": "18:00",
+    "airstamp": "2014-05-12T18:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253119.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253119.jpg"
+    },
+    "summary": "Once a month, while Jake's asleep, his tail stretches out of the treehouse to go work as a clown in a travelling bug circus.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30166"
+      }
+    }
+  },
+  {
+    "id": 162,
+    "url": "http://www.tvmaze.com/episodes/30167/adventure-time-6x06-breezy",
+    "name": "Breezy",
+    "recommended": true,
+    "season": 6,
+    "number": 6,
+    "airdate": "2014-06-05",
+    "airtime": "19:00",
+    "airstamp": "2014-06-05T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253120.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253120.jpg"
+    },
+    "summary": "With a friendly bee named \"Breezy\" as his wingman, Finn decides to get back into the dating game.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30167"
+      }
+    }
+  },
+  {
+    "id": 163,
+    "url": "http://www.tvmaze.com/episodes/30168/adventure-time-6x07-food-chain",
+    "name": "Food Chain",
+    "season": 6,
+    "number": 7,
+    "airdate": "2014-06-12",
+    "airtime": "19:00",
+    "airstamp": "2014-06-12T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253121.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253121.jpg"
+    },
+    "summary": "On a field trip to the Candy Kingdom Museum of Natural History, Finn and\n Jake learn about the Food chain by becoming the food chain!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30168"
+      }
+    }
+  },
+  {
+    "id": 164,
+    "url": "http://www.tvmaze.com/episodes/30169/adventure-time-6x08-furniture-meat",
+    "name": "Furniture & Meat",
+    "season": 6,
+    "number": 8,
+    "airdate": "2014-06-19",
+    "airtime": "19:00",
+    "airstamp": "2014-06-19T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253122.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253122.jpg"
+    },
+    "summary": "Big money problems send Finn and Jake to Wildberry Kingdom.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30169"
+      }
+    }
+  },
+  {
+    "id": 165,
+    "url": "http://www.tvmaze.com/episodes/30170/adventure-time-6x09-the-prince-who-wanted-everything",
+    "name": "The Prince Who Wanted Everything",
+    "season": 6,
+    "number": 9,
+    "airdate": "2014-06-26",
+    "airtime": "19:00",
+    "airstamp": "2014-06-26T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253123.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253123.jpg"
+    },
+    "summary": "The beautiful and sensitive Lumpy Space Prince flees his cruel parents to start a new life.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30170"
+      }
+    }
+  },
+  {
+    "id": 166,
+    "url": "http://www.tvmaze.com/episodes/30171/adventure-time-6x10-something-big",
+    "name": "Something Big",
+    "recommended": true,
+    "season": 6,
+    "number": 10,
+    "airdate": "2014-07-03",
+    "airtime": "19:00",
+    "airstamp": "2014-07-03T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253124.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253124.jpg"
+    },
+    "summary": "Princess Bubblegum must rally her forces when the Candy Kingdom is rocked by a massive assault.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30171"
+      }
+    }
+  },
+  {
+    "id": 167,
+    "url": "http://www.tvmaze.com/episodes/30172/adventure-time-6x11-little-brother",
+    "name": "Little Brother",
+    "season": 6,
+    "number": 11,
+    "airdate": "2014-07-10",
+    "airtime": "19:00",
+    "airstamp": "2014-07-10T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253125.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253125.jpg"
+    },
+    "summary": "Shelby is thrust into a new role after a party-related accident.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30172"
+      }
+    }
+  },
+  {
+    "id": 168,
+    "url": "http://www.tvmaze.com/episodes/30173/adventure-time-6x12-ocarina",
+    "name": "Ocarina",
+    "recommended": true,
+    "season": 6,
+    "number": 12,
+    "airdate": "2014-07-17",
+    "airtime": "19:00",
+    "airstamp": "2014-07-17T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253126.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253126.jpg"
+    },
+    "summary": "Fed up with Jake's antics, his son Kim Kil Whan takes action.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30173"
+      }
+    }
+  },
+  {
+    "id": 169,
+    "url": "http://www.tvmaze.com/episodes/30174/adventure-time-6x13-thanks-for-the-crabapples-giuseppe",
+    "name": "Thanks for the Crabapples, Giuseppe",
+    "season": 6,
+    "number": 13,
+    "airdate": "2014-07-24",
+    "airtime": "19:00",
+    "airstamp": "2014-07-24T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253127.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253127.jpg"
+    },
+    "summary": "Ice King and a band of misfit wizards go on a mystical road trip.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30174"
+      }
+    }
+  },
+  {
+    "id": 170,
+    "url": "http://www.tvmaze.com/episodes/30175/adventure-time-6x14-princess-day",
+    "name": "Princess Day",
+    "season": 6,
+    "number": 14,
+    "airdate": "2014-07-31",
+    "airtime": "19:00",
+    "airstamp": "2014-07-31T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253128.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253128.jpg"
+    },
+    "summary": "It's Princess Day in Ooo! You know what that means? Yep, LSP and Marceline team up to prank Breakfast Princess!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30175"
+      }
+    }
+  },
+  {
+    "id": 171,
+    "url": "http://www.tvmaze.com/episodes/30176/adventure-time-6x15-nemesis",
+    "name": "Nemesis",
+    "season": 6,
+    "number": 15,
+    "airdate": "2014-08-07",
+    "airtime": "19:00",
+    "airstamp": "2014-08-07T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253129.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253129.jpg"
+    },
+    "summary": "A shadowy figure named Peace Master targets the Candy Kingdom elite.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30176"
+      }
+    }
+  },
+  {
+    "id": 172,
+    "url": "http://www.tvmaze.com/episodes/30177/adventure-time-6x16-joshua-margaret-investigations",
+    "name": "Joshua & Margaret Investigations",
+    "recommended": true,
+    "season": 6,
+    "number": 16,
+    "airdate": "2014-08-14",
+    "airtime": "19:00",
+    "airstamp": "2014-08-14T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/7/19712.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19712.jpg"
+    },
+    "summary": "Finn and Jake's parents hunt an unearthly menace in the woods.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30177"
+      }
+    }
+  },
+  {
+    "id": 173,
+    "url": "http://www.tvmaze.com/episodes/30178/adventure-time-6x17-ghost-fly",
+    "name": "Ghost Fly",
+    "season": 6,
+    "number": 17,
+    "airdate": "2014-10-28",
+    "airtime": "18:00",
+    "airstamp": "2014-10-28T18:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253130.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253130.jpg"
+    },
+    "summary": "Jake and the tree house are haunted by a vengeful spectre.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/30178"
+      }
+    }
+  },
+  {
+    "id": 174,
+    "url": "http://www.tvmaze.com/episodes/57315/adventure-time-6x18-everythings-jake",
+    "name": "Everything's Jake",
+    "season": 6,
+    "number": 18,
+    "airdate": "2014-11-24",
+    "airtime": "19:00",
+    "airstamp": "2014-11-24T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253131.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253131.jpg"
+    },
+    "summary": "Jake finds himself transported to a world both alien and familiar.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/57315"
+      }
+    }
+  },
+  {
+    "id": 175,
+    "url": "http://www.tvmaze.com/episodes/57316/adventure-time-6x19-is-that-you",
+    "name": "Is That You?",
+    "recommended": true,
+    "season": 6,
+    "number": 19,
+    "airdate": "2014-11-25",
+    "airtime": "19:00",
+    "airstamp": "2014-11-25T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253132.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253132.jpg"
+    },
+    "summary": "After a memorial for a fallen ally, Jake starts acting very strange.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/57316"
+      }
+    }
+  },
+  {
+    "id": 176,
+    "url": "http://www.tvmaze.com/episodes/57317/adventure-time-6x20-jake-the-brick",
+    "name": "Jake the Brick",
+    "recommended": true,
+    "season": 6,
+    "number": 20,
+    "airdate": "2014-11-26",
+    "airtime": "19:00",
+    "airstamp": "2014-11-26T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253133.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253133.jpg"
+    },
+    "summary": "Jake sets out to fulfill a bizarre lifelong ambition.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/57317"
+      }
+    }
+  },
+  {
+    "id": 178,
+    "url": "http://www.tvmaze.com/episodes/57318/adventure-time-6x21-dentist",
+    "name": "Dentist",
+    "season": 6,
+    "number": 21,
+    "airdate": "2014-11-28",
+    "airtime": "19:00",
+    "airstamp": "2014-11-28T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253134.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253134.jpg"
+    },
+    "summary": "Finn's aching tooth leaves him with no othe roption but to go to the dentist.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/57318"
+      }
+    }
+  },
+  {
+    "id": 179,
+    "url": "http://www.tvmaze.com/episodes/57319/adventure-time-6x22-the-cooler",
+    "name": "The Cooler",
+    "recommended": true,
+    "season": 6,
+    "number": 22,
+    "airdate": "2014-12-04",
+    "airtime": "19:00",
+    "airstamp": "2014-12-04T19:00:00-05:00",
+    "image": null,
+    "summary": "When the Fire Kingdom is struck by a natural disaster, Flame Princess turns to an unlikely ally.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/57319"
+      }
+    }
+  },
+  {
+    "id": 180,
+    "url": "http://www.tvmaze.com/episodes/109673/adventure-time-6x23-the-pajama-wars",
+    "name": "The Pajama Wars",
+    "season": 6,
+    "number": 23,
+    "airdate": "2015-01-08",
+    "airtime": "19:00",
+    "airstamp": "2015-01-08T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253135.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253135.jpg"
+    },
+    "summary": "A Candy Kingdom slumber party devolves into panic when Finn and Princess Bubblegum vanish.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/109673"
+      }
+    }
+  },
+  {
+    "id": 181,
+    "url": "http://www.tvmaze.com/episodes/109674/adventure-time-6x24-the-evergreen",
+    "name": "Evergreen",
+    "recommended": true,
+    "season": 6,
+    "number": 24,
+    "airdate": "2015-01-15",
+    "airtime": "19:00",
+    "airstamp": "2015-01-15T19:00:00-05:00",
+    "image": null,
+    "summary": "In a distant age, the wizard Evergreen quests to save the world.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/109674"
+      }
+    }
+  },
+  {
+    "id": 182,
+    "url": "http://www.tvmaze.com/episodes/118435/adventure-time-6x25-astral-plane",
+    "name": "Astral Plane",
+    "recommended": true,
+    "season": 6,
+    "number": 25,
+    "airdate": "2015-01-22",
+    "airtime": "19:00",
+    "airstamp": "2015-01-22T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/7/19711.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19711.jpg"
+    },
+    "summary": "Finn has an out-of-body experience that takes him all over Ooo and beyond.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/118435"
+      }
+    }
+  },
+  {
+    "id": 183,
+    "url": "http://www.tvmaze.com/episodes/123094/adventure-time-6x26-gold-stars",
+    "name": "Gold Stars",
+    "recommended": true,
+    "season": 6,
+    "number": 26,
+    "airdate": "2015-01-29",
+    "airtime": "19:00",
+    "airstamp": "2015-01-29T19:00:00-05:00",
+    "image": null,
+    "summary": "Tree Trunks and Mr. Pig's child, Sweet P, runs into trouble on his first day of school.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/123094"
+      }
+    }
+  },
+  {
+    "id": 184,
+    "url": "http://www.tvmaze.com/episodes/123878/adventure-time-6x27-the-visitor",
+    "name": "The Visitor",
+    "recommended": true,
+    "season": 6,
+    "number": 27,
+    "airdate": "2015-02-05",
+    "airtime": "19:00",
+    "airstamp": "2015-02-05T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253136.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253136.jpg"
+    },
+    "summary": "A vision leads Finn to a friendly civilization and a mysterious crash site.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/123878"
+      }
+    }
+  },
+  {
+    "id": 185,
+    "url": "http://www.tvmaze.com/episodes/128883/adventure-time-6x28-the-mountain",
+    "name": "The Mountain",
+    "recommended": true,
+    "season": 6,
+    "number": 28,
+    "airdate": "2015-02-12",
+    "airtime": "19:00",
+    "airstamp": "2015-02-12T19:00:00-05:00",
+    "image": null,
+    "summary": "Lemongrab and Finn go on a journey of discovery through the Mountain of Matthew.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/128883"
+      }
+    }
+  },
+  {
+    "id": 186,
+    "url": "http://www.tvmaze.com/episodes/128884/adventure-time-6x29-dark-purple",
+    "name": "Dark Purple",
+    "recommended": true,
+    "season": 6,
+    "number": 29,
+    "airdate": "2015-02-19",
+    "airtime": "19:00",
+    "airstamp": "2015-02-19T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253137.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253137.jpg"
+    },
+    "summary": "Finn and his magical dog Jake get into outlandish adventures in the land of Ooo.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/128884"
+      }
+    }
+  },
+  {
+    "id": 187,
+    "url": "http://www.tvmaze.com/episodes/128885/adventure-time-6x30-the-diary",
+    "name": "The Diary",
+    "season": 6,
+    "number": 30,
+    "airdate": "2015-02-26",
+    "airtime": "19:00",
+    "airstamp": "2015-02-26T19:00:00-05:00",
+    "image": null,
+    "summary": "Jake's son TV discovers a lost diary and sets out to solve a decades-old mystery.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/128885"
+      }
+    }
+  },
+  {
+    "id": 188,
+    "url": "http://www.tvmaze.com/episodes/141980/adventure-time-6x31-walnuts-rain",
+    "name": "Walnuts & Rain",
+    "season": 6,
+    "number": 31,
+    "airdate": "2015-03-05",
+    "airtime": "19:00",
+    "airstamp": "2015-03-05T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253138.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253138.jpg"
+    },
+    "summary": "Two different fates await Finn and Jake.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/141980"
+      }
+    }
+  },
+  {
+    "id": 189,
+    "url": "http://www.tvmaze.com/episodes/151684/adventure-time-6x32-friends-forever",
+    "name": "Friends Forever",
+    "season": 6,
+    "number": 32,
+    "airdate": "2015-04-16",
+    "airtime": "19:30",
+    "airstamp": "2015-04-16T19:30:00-04:00",
+    "image": null,
+    "summary": "Ice King plots to form a perfect circle of confidants.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/151684"
+      }
+    }
+  },
+  {
+    "id": 190,
+    "url": "http://www.tvmaze.com/episodes/153230/adventure-time-6x33-jermaine",
+    "name": "Jermaine",
+    "recommended": true,
+    "season": 6,
+    "number": 33,
+    "airdate": "2015-04-23",
+    "airtime": "19:30",
+    "airstamp": "2015-04-23T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253139.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253139.jpg"
+    },
+    "summary": "After a chilling dream encounter, Finn & Jake are determined to reconnect with their reclusive brother.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/153230"
+      }
+    }
+  },
+  {
+    "id": 191,
+    "url": "http://www.tvmaze.com/episodes/153231/adventure-time-6x34-chips-ice-cream",
+    "name": "Chips & Ice Cream",
+    "season": 6,
+    "number": 34,
+    "airdate": "2015-04-30",
+    "airtime": "19:30",
+    "airstamp": "2015-04-30T19:30:00-04:00",
+    "image": null,
+    "summary": "BMO's favorite entertainers unexpectedly find a new home at the tree house.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/153231"
+      }
+    }
+  },
+  {
+    "id": 192,
+    "url": "http://www.tvmaze.com/episodes/155496/adventure-time-6x35-graybles-1000",
+    "name": "Graybles 1000+",
+    "recommended": true,
+    "season": 6,
+    "number": 35,
+    "airdate": "2015-05-07",
+    "airtime": "19:30",
+    "airstamp": "2015-05-07T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253140.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253140.jpg"
+    },
+    "summary": "Marooned on an alien world, Cuber must rely on his bag of Graybles to survive.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/155496"
+      }
+    }
+  },
+  {
+    "id": 193,
+    "url": "http://www.tvmaze.com/episodes/155519/adventure-time-6x36-hoots",
+    "name": "Hoots",
+    "recommended": true,
+    "season": 6,
+    "number": 36,
+    "airdate": "2015-05-14",
+    "airtime": "19:00",
+    "airstamp": "2015-05-14T19:00:00-04:00",
+    "image": null,
+    "summary": "A charismatic stranger in Finn's dream leads Cosmic Owl to shirk his duties.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/155519"
+      }
+    }
+  },
+  {
+    "id": 194,
+    "url": "http://www.tvmaze.com/episodes/155561/adventure-time-6x37-water-park-prank",
+    "name": "Water Park Prank",
+    "season": 6,
+    "number": 37,
+    "airdate": "2015-05-21",
+    "airtime": "19:30",
+    "airstamp": "2015-05-21T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253141.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253141.jpg"
+    },
+    "summary": "After rescuing Princess Orangutan from Daddy-sad-heads, Finn & Jake head to a post-apocalyptic water park for a day of fun.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/155561"
+      }
+    }
+  },
+  {
+    "id": 195,
+    "url": "http://www.tvmaze.com/episodes/159248/adventure-time-6x38-you-forgot-your-floaties",
+    "name": "You Forgot Your Floaties",
+    "season": 6,
+    "number": 38,
+    "airdate": "2015-06-01",
+    "airtime": "18:00",
+    "airstamp": "2015-06-01T18:00:00-04:00",
+    "image": null,
+    "summary": "Finn & Jake storm Magic Man's house to rescue his new apprentice.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/159248"
+      }
+    }
+  },
+  {
+    "id": 196,
+    "url": "http://www.tvmaze.com/episodes/159249/adventure-time-6x39-be-sweet",
+    "name": "Be Sweet",
+    "recommended": true,
+    "season": 6,
+    "number": 39,
+    "airdate": "2015-06-02",
+    "airtime": "18:00",
+    "airstamp": "2015-06-02T18:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253142.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253142.jpg"
+    },
+    "summary": "A fed up Lumpy Space Princess leaves the woods for a glamorous career in babysitting.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/159249"
+      }
+    }
+  },
+  {
+    "id": 197,
+    "url": "http://www.tvmaze.com/episodes/159250/adventure-time-6x40-orgalorg",
+    "name": "Orgalorg",
+    "recommended": true,
+    "season": 6,
+    "number": 40,
+    "airdate": "2015-06-03",
+    "airtime": "18:00",
+    "airstamp": "2015-06-03T18:00:00-04:00",
+    "image": null,
+    "summary": "After a walrus race accident, Gunther starts to experience strange visions.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/159250"
+      }
+    }
+  },
+  {
+    "id": 198,
+    "url": "http://www.tvmaze.com/episodes/160743/adventure-time-6x41-on-the-lam",
+    "name": "On the Lam",
+    "season": 6,
+    "number": 41,
+    "airdate": "2015-06-04",
+    "airtime": "18:00",
+    "airstamp": "2015-06-04T18:00:00-04:00",
+    "image": null,
+    "summary": "Finn's dad Martin the Human fights for freedom on a strange new planet!",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/160743"
+      }
+    }
+  },
+  {
+    "id": 199,
+    "url": "http://www.tvmaze.com/episodes/160745/adventure-time-6x42-hot-diggity-doom",
+    "name": "Hot Diggity Doom",
+    "season": 6,
+    "number": 42,
+    "airdate": "2015-06-05",
+    "airtime": "18:00",
+    "airstamp": "2015-06-05T18:00:00-04:00",
+    "image": null,
+    "summary": "It's election day in the Candy Kingdom but Princess Bubblegum's attention is diverted by a mysterious presence in the sky. ",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/160745"
+      }
+    }
+  },
+  {
+    "id": 200,
+    "url": "http://www.tvmaze.com/episodes/160744/adventure-time-6x43-the-comet",
+    "name": "The Comet",
+    "season": 6,
+    "number": 43,
+    "airdate": "2015-06-05",
+    "airtime": "18:15",
+    "airstamp": "2015-06-05T18:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253143.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253143.jpg"
+    },
+    "summary": "Finn, Jake and Orgalorg converge with the comet and meet their destiny.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/160744"
+      }
+    }
+  },
+  {
+    "id": 201,
+    "url": "http://www.tvmaze.com/episodes/422677/adventure-time-7x01-bonnie-neddy",
+    "name": "Bonnie & Neddy",
+    "season": 7,
+    "number": 1,
+    "airdate": "2015-11-02",
+    "airtime": "20:00",
+    "airstamp": "2015-11-02T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171588.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171588.jpg"
+    },
+    "summary": "Jake and Finn are sleuthing under the order of Candy Kingdom's new \nprincess when they discover one of the land's greatest secrets.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/422677"
+      }
+    }
+  },
+  {
+    "id": 202,
+    "url": "http://www.tvmaze.com/episodes/422678/adventure-time-7x02-varmints",
+    "name": "Varmints",
+    "season": 7,
+    "number": 2,
+    "airdate": "2015-11-03",
+    "airtime": "20:00",
+    "airstamp": "2015-11-03T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171587.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171587.jpg"
+    },
+    "summary": "When something threatens her homestead's citizens, Bubblegum turns to Marceline for help.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/422678"
+      }
+    }
+  },
+  {
+    "id": 203,
+    "url": "http://www.tvmaze.com/episodes/422680/adventure-time-7x03-cherry-cream-soda",
+    "name": "Cherry Cream Soda",
+    "season": 7,
+    "number": 3,
+    "airdate": "2015-11-04",
+    "airtime": "20:00",
+    "airstamp": "2015-11-04T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171586.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171586.jpg"
+    },
+    "summary": "Cherry Cream Soda's life falls flat with the arrival of a visitor.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/422680"
+      }
+    }
+  },
+  {
+    "id": 204,
+    "url": "http://www.tvmaze.com/episodes/406566/adventure-time-7x04-mama-said",
+    "name": "Mama Said",
+    "season": 7,
+    "number": 4,
+    "airdate": "2015-11-05",
+    "airtime": "20:00",
+    "airstamp": "2015-11-05T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171585.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171585.jpg"
+    },
+    "summary": "Finn and Jake's loyalty is questioned when King of Ooo sends the duo on a mission to catch flying mushrooms.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/406566"
+      }
+    }
+  },
+  {
+    "id": 205,
+    "url": "http://www.tvmaze.com/episodes/406567/adventure-time-7x05-football",
+    "name": "Football",
+    "season": 7,
+    "number": 5,
+    "airdate": "2015-11-06",
+    "airtime": "20:00",
+    "airstamp": "2015-11-06T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171584.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171584.jpg"
+    },
+    "summary": "BMO and Football make a deal but one them can't hold their end of the bargain.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/406567"
+      }
+    }
+  },
+  {
+    "id": 206,
+    "url": "http://www.tvmaze.com/episodes/467716/adventure-time-7x06-stakes-marceline-the-vampire-queen",
+    "name": "Stakes: Marceline the Vampire Queen",
+    "season": 7,
+    "number": 6,
+    "airdate": "2015-11-16",
+    "airtime": "20:00",
+    "airstamp": "2015-11-16T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171583.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171583.jpg"
+    },
+    "summary": "Finn & Jake hunt for a shadowy predator and Marceline asks Princess Bubblegum for a huge favor.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/467716"
+      }
+    }
+  },
+  {
+    "id": 207,
+    "url": "http://www.tvmaze.com/episodes/467717/adventure-time-7x07-stakes-everything-stays",
+    "name": "Stakes: Everything Stays",
+    "season": 7,
+    "number": 7,
+    "airdate": "2015-11-16",
+    "airtime": "20:15",
+    "airstamp": "2015-11-16T20:15:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171582.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171582.jpg"
+    },
+    "summary": "As the sun rises on her last day, Marceline recalls her long extraordinary life.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/467717"
+      }
+    }
+  },
+  {
+    "id": 208,
+    "url": "http://www.tvmaze.com/episodes/467718/adventure-time-7x08-stakes-vamps-about",
+    "name": "Stakes: Vamps About",
+    "season": 7,
+    "number": 8,
+    "airdate": "2015-11-17",
+    "airtime": "20:00",
+    "airstamp": "2015-11-17T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171581.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171581.jpg"
+    },
+    "summary": "Five foes from Marceline's past come back to cause trouble for the Land of Ooo.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/467718"
+      }
+    }
+  },
+  {
+    "id": 209,
+    "url": "http://www.tvmaze.com/episodes/426272/adventure-time-7x09-stakes-empress-eyes",
+    "name": "Stakes: Empress Eyes",
+    "season": 7,
+    "number": 9,
+    "airdate": "2015-11-17",
+    "airtime": "20:15",
+    "airstamp": "2015-11-17T20:15:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171580.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171580.jpg"
+    },
+    "summary": "When one of her oldest adversaries targets the Ice Kingdom, Marceline rushes to Simon's rescue.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/426272"
+      }
+    }
+  },
+  {
+    "id": 210,
+    "url": "http://www.tvmaze.com/episodes/426274/adventure-time-7x10-stakes-may-i-come-in",
+    "name": "Stakes: May I Come In?",
+    "season": 7,
+    "number": 10,
+    "airdate": "2015-11-18",
+    "airtime": "20:00",
+    "airstamp": "2015-11-18T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171579.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171579.jpg"
+    },
+    "summary": "Finn, Jake, Marceline, and PB set out to hunt down the Vamps. But who is hunting them?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/426274"
+      }
+    }
+  },
+  {
+    "id": 211,
+    "url": "http://www.tvmaze.com/episodes/426275/adventure-time-7x11-stakes-take-her-back",
+    "name": "Stakes: Take Her Back",
+    "season": 7,
+    "number": 11,
+    "airdate": "2015-11-18",
+    "airtime": "20:15",
+    "airstamp": "2015-11-18T20:15:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171578.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171578.jpg"
+    },
+    "summary": "While Princess Bubblegum searches for a cure for Marceline, Finn & Jake take on one of the Vamps themselves.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/426275"
+      }
+    }
+  },
+  {
+    "id": 212,
+    "url": "http://www.tvmaze.com/episodes/426278/adventure-time-7x12-stakes-checkmate",
+    "name": "Stakes: Checkmate",
+    "season": 7,
+    "number": 12,
+    "airdate": "2015-11-19",
+    "airtime": "20:00",
+    "airstamp": "2015-11-19T20:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171577.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171577.jpg"
+    },
+    "summary": "On the eve of battle, Marceline's archenemy comes to her with a strange proposal.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/426278"
+      }
+    }
+  },
+  {
+    "id": 213,
+    "url": "http://www.tvmaze.com/episodes/426279/adventure-time-7x13-stakes-the-dark-cloud",
+    "name": "Stakes: The Dark Cloud",
+    "season": 7,
+    "number": 13,
+    "airdate": "2015-11-19",
+    "airtime": "20:15",
+    "airstamp": "2015-11-19T20:15:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171576.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171576.jpg"
+    },
+    "summary": "The final confrontation! Who will survive?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/426279"
+      }
+    }
+  },
+  {
+    "id": 214,
+    "url": "http://www.tvmaze.com/episodes/507278/adventure-time-7x14-the-more-you-moe-the-moe-you-know",
+    "name": "The More You Moe, The Moe You Know",
+    "season": 7,
+    "number": 14,
+    "airdate": "2015-12-03",
+    "airtime": "19:00",
+    "airstamp": "2015-12-03T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171575.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171575.jpg"
+    },
+    "summary": "BMO's maker Moe comes to visit with a quest for BMO. \"Moe\" is actually revealed to be AMO, who attempts to destroy BMO and steal Finn and Jake for itself.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/507278"
+      }
+    }
+  },
+  {
+    "id": 215,
+    "url": "http://www.tvmaze.com/episodes/552429/adventure-time-7x15-summer-showers",
+    "name": "Summer Showers",
+    "season": 7,
+    "number": 15,
+    "airdate": "2016-01-07",
+    "airtime": "19:30",
+    "airstamp": "2016-01-07T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171574.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171574.jpg"
+    },
+    "summary": "Jake's daughter Viola is up for a role in a play by a hot new director?Lumpy Space Princess.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/552429"
+      }
+    }
+  },
+  {
+    "id": 216,
+    "url": "http://www.tvmaze.com/episodes/552430/adventure-time-7x16-angel-face",
+    "name": "Angel Face",
+    "season": 7,
+    "number": 16,
+    "airdate": "2016-01-11",
+    "airtime": "19:30",
+    "airstamp": "2016-01-11T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171573.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171573.jpg"
+    },
+    "summary": "BMO convinces his friends to join him in a live action cowboy role-playing game.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/552430"
+      }
+    }
+  },
+  {
+    "id": 217,
+    "url": "http://www.tvmaze.com/episodes/552431/adventure-time-7x17-president-porpoise-is-missing",
+    "name": "President Porpoise is Missing!",
+    "season": 7,
+    "number": 17,
+    "airdate": "2016-01-12",
+    "airtime": "19:30",
+    "airstamp": "2016-01-12T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171572.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171572.jpg"
+    },
+    "summary": "Jake and Finn try to find President Porpoise before Vice President Blowfish takes over.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/552431"
+      }
+    }
+  },
+  {
+    "id": 218,
+    "url": "http://www.tvmaze.com/episodes/556712/adventure-time-7x18-blank-eyed-girl",
+    "name": "Blank-Eyed Girl",
+    "season": 7,
+    "number": 18,
+    "airdate": "2016-01-13",
+    "airtime": "19:30",
+    "airstamp": "2016-01-13T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171571.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171571.jpg"
+    },
+    "summary": "One very spooky night, Finn and Jake come face-to-face with an urban myth.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/556712"
+      }
+    }
+  },
+  {
+    "id": 219,
+    "url": "http://www.tvmaze.com/episodes/556713/adventure-time-7x19-bad-jubies",
+    "name": "Bad Jubies",
+    "season": 7,
+    "number": 19,
+    "airdate": "2016-01-14",
+    "airtime": "19:30",
+    "airstamp": "2016-01-14T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171570.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171570.jpg"
+    },
+    "summary": "Finn, LSP and BMO build a bunk to protect themselves from a storm; Jake has his own ideas.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/556713"
+      }
+    }
+  },
+  {
+    "id": 220,
+    "url": "http://www.tvmaze.com/episodes/556714/adventure-time-7x20-a-kings-ransom",
+    "name": "A King's Ransom",
+    "season": 7,
+    "number": 20,
+    "airdate": "2016-01-15",
+    "airtime": "19:30",
+    "airstamp": "2016-01-15T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171569.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171569.jpg"
+    },
+    "summary": "Ice King suffers a heartbreaking loss and it's up to Finn and Jake to find the culprit.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/556714"
+      }
+    }
+  },
+  {
+    "id": 221,
+    "url": "http://www.tvmaze.com/episodes/556715/adventure-time-7x21-scamps",
+    "name": "Scamps",
+    "season": 7,
+    "number": 21,
+    "airdate": "2016-01-21",
+    "airtime": "19:30",
+    "airstamp": "2016-01-21T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171568.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171568.jpg"
+    },
+    "summary": "Finn takes a group of at-risk Candy Kingdom youth on a camping trip they'll never forget.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/556715"
+      }
+    }
+  },
+  {
+    "id": 222,
+    "url": "http://www.tvmaze.com/episodes/556716/adventure-time-7x22-crossover",
+    "name": "Crossover",
+    "season": 7,
+    "number": 22,
+    "airdate": "2016-01-28",
+    "airtime": "19:30",
+    "airstamp": "2016-01-28T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171567.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171567.jpg"
+    },
+    "summary": "Prismo needs Finn and Jake's help to stop a catastrophic event from happening somewhere in the multiverse.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/556716"
+      }
+    }
+  },
+  {
+    "id": 223,
+    "url": "http://www.tvmaze.com/episodes/628745/adventure-time-7x23-hall-of-egress",
+    "name": "Hall of Egress",
+    "season": 7,
+    "number": 23,
+    "airdate": "2016-03-05",
+    "airtime": "19:00",
+    "airstamp": "2016-03-05T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171566.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171566.jpg"
+    },
+    "summary": "Trapped and alone, Finn must unravel the riddle of the weird cave with no exit.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/628745"
+      }
+    }
+  },
+  {
+    "id": 224,
+    "url": "http://www.tvmaze.com/episodes/628746/adventure-time-7x24-flute-spell",
+    "name": "Flute Spell",
+    "season": 7,
+    "number": 24,
+    "airdate": "2016-03-12",
+    "airtime": "19:00",
+    "airstamp": "2016-03-12T19:00:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171565.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171565.jpg"
+    },
+    "summary": "Jake learns that Finn's been having clandestine meetings with a powerful wizard. But what are they up to?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/628746"
+      }
+    }
+  },
+  {
+    "id": 225,
+    "url": "http://www.tvmaze.com/episodes/628747/adventure-time-7x25-the-thin-yellow-line",
+    "name": "The Thin Yellow Line",
+    "season": 7,
+    "number": 25,
+    "airdate": "2016-03-19",
+    "airtime": "19:00",
+    "airstamp": "2016-03-19T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171564.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171564.jpg"
+    },
+    "summary": "Finn and Jake infiltrte the Banana Guard ranks and stumble upon a conspiracy.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/628747"
+      }
+    }
+  },
+  {
+    "id": 226,
+    "url": "http://www.tvmaze.com/episodes/628748/adventure-time-7x26-broke-his-crown",
+    "name": "Broke His Crown",
+    "season": 7,
+    "number": 26,
+    "airdate": "2016-03-26",
+    "airtime": "19:00",
+    "airstamp": "2016-03-26T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171064.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171064.jpg"
+    },
+    "summary": "When Ice King's magic crown goes haywire, marceline and Princess Bubblegum resort to extreme measures to help him.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/628748"
+      }
+    }
+  },
+  {
+    "id": 227,
+    "url": "http://www.tvmaze.com/episodes/648576/adventure-time-7x27-dont-look",
+    "name": "Don't Look",
+    "season": 7,
+    "number": 27,
+    "airdate": "2016-04-02",
+    "airtime": "19:00",
+    "airstamp": "2016-04-02T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171062.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171062.jpg"
+    },
+    "summary": "At the top of Dead Mountain, Finn discovers a treasure that comes with a terrible price.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/648576"
+      }
+    }
+  },
+  {
+    "id": 228,
+    "url": "http://www.tvmaze.com/episodes/680757/adventure-time-7x28-beyond-the-grotto",
+    "name": "Beyond the Grotto",
+    "season": 7,
+    "number": 28,
+    "airdate": "2016-04-09",
+    "airtime": "19:00",
+    "airstamp": "2016-04-09T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/53/132854.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/53/132854.jpg"
+    },
+    "summary": "Finn and Jake follow sea-lion into the pound and discover a mysterious dimension.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/680757"
+      }
+    }
+  },
+  {
+    "id": 229,
+    "url": "http://www.tvmaze.com/episodes/687499/adventure-time-7x29-lady-rainicorn-and-the-crystal-dimension",
+    "name": "Lady Rainicorn and the Crystal Dimension",
+    "season": 7,
+    "number": 29,
+    "airdate": "2016-04-16",
+    "airtime": "19:00",
+    "airstamp": "2016-04-16T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171061.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171061.jpg"
+    },
+    "summary": "Jake's son TV finds a hidden box and draws the attention of a super cool Rainicorn named Lee.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/687499"
+      }
+    }
+  },
+  {
+    "id": 230,
+    "url": "http://www.tvmaze.com/episodes/687500/adventure-time-7x30-i-am-a-sword",
+    "name": "I Am a Sword",
+    "season": 7,
+    "number": 30,
+    "airdate": "2016-04-23",
+    "airtime": "19:00",
+    "airstamp": "2016-04-23T19:00:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171060.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171060.jpg"
+    },
+    "summary": "Finn starts having guilt nightmares about his missing Finn Sword...but are the nightmares real?",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/687500"
+      }
+    }
+  },
+  {
+    "id": 231,
+    "url": "http://www.tvmaze.com/episodes/760459/adventure-time-7x31-bun-bun",
+    "name": "Bun Bun",
+    "season": 7,
+    "number": 31,
+    "airdate": "2016-05-05",
+    "airtime": "19:45",
+    "airstamp": "2016-05-05T19:45:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/56/141546.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/56/141546.jpg"
+    },
+    "summary": "Finn brings a special delivery for Cinnamon Bun.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/760459"
+      }
+    }
+  },
+  {
+    "id": 232,
+    "url": "http://www.tvmaze.com/episodes/760460/adventure-time-7x32-normal-man",
+    "name": "Normal Man",
+    "season": 7,
+    "number": 32,
+    "airdate": "2016-05-12",
+    "airtime": "19:15",
+    "airstamp": "2016-05-12T19:15:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171058.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171058.jpg"
+    },
+    "summary": "Stripped of his magic powers, Normal Man enlists Finn and Jake's help to rescue his brother Glob.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/760460"
+      }
+    }
+  },
+  {
+    "id": 233,
+    "url": "http://www.tvmaze.com/episodes/772876/adventure-time-7x33-elemental",
+    "name": "Elemental",
+    "season": 7,
+    "number": 33,
+    "airdate": "2016-05-19",
+    "airtime": "19:45",
+    "airstamp": "2016-05-19T19:45:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171057.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171057.jpg"
+    },
+    "summary": "Ice King discovers something buried deep beneath the Ice Kingdom that could change Ooo forever.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/772876"
+      }
+    }
+  },
+  {
+    "id": 234,
+    "url": "http://www.tvmaze.com/episodes/777844/adventure-time-7x34-five-short-tables",
+    "name": "Five Short Tables",
+    "season": 7,
+    "number": 34,
+    "airdate": "2016-05-26",
+    "airtime": "19:30",
+    "airstamp": "2016-05-26T19:30:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171055.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171055.jpg"
+    },
+    "summary": "Fionna and Cake go on a cooking adventure to push Cake's are to an all-new-level.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/777844"
+      }
+    }
+  },
+  {
+    "id": 235,
+    "url": "http://www.tvmaze.com/episodes/821588/adventure-time-7x35-the-music-hole",
+    "name": "The Music Hole",
+    "season": 7,
+    "number": 35,
+    "airdate": "2016-06-23",
+    "airtime": "19:45",
+    "airstamp": "2016-06-23T19:45:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171052.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171052.jpg"
+    },
+    "summary": "While judging the hugest Battle of the Bands in the history of Ooo, Finn hears a mysterious new song.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/821588"
+      }
+    }
+  },
+  {
+    "id": 236,
+    "url": "http://www.tvmaze.com/episodes/845726/adventure-time-7x36-daddy-daughter-card-wars",
+    "name": "Daddy-Daughter Card Wars",
+    "season": 7,
+    "number": 36,
+    "airdate": "2016-07-07",
+    "airtime": "19:45",
+    "airstamp": "2016-07-07T19:45:00-04:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171050.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171050.jpg"
+    },
+    "summary": "To put his embarrassing past behind him, Jake needs his daughter Charlie's help to win an underground Card Wars tourney.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/845726"
+      }
+    }
+  },
+  {
+    "id": 237,
+    "url": "http://www.tvmaze.com/episodes/967077/adventure-time-7x37-preboot",
+    "name": "PreBoot",
+    "season": 7,
+    "number": 37,
+    "airdate": "2016-11-19",
+    "airtime": "20:30",
+    "airstamp": "2016-11-19T20:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/85/213607.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/85/213607.jpg"
+    },
+    "summary": "During an excavation, Finn, Jake and Susan encounter a mysterious stranger who may hold the key to the past.\n ",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/967077"
+      }
+    }
+  },
+  {
+    "id": 238,
+    "url": "http://www.tvmaze.com/episodes/967078/adventure-time-7x38-reboot",
+    "name": "ReBoot",
+    "season": 7,
+    "number": 38,
+    "airdate": "2016-11-19",
+    "airtime": "20:45",
+    "airstamp": "2016-11-19T20:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/85/213608.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/85/213608.jpg"
+    },
+    "summary": "Finn and Jake take on one of the fiercest enemies they've faced when a powerful ally goes rogue.\n ",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/967078"
+      }
+    }
+  },
+  {
+    "id": 239,
+    "url": "http://www.tvmaze.com/episodes/1025716/adventure-time-8x01-two-swords",
+    "name": "Two Swords",
+    "season": 8,
+    "number": 1,
+    "airdate": "2017-01-23",
+    "airtime": "19:30",
+    "airstamp": "2017-01-23T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253146.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253146.jpg"
+    },
+    "summary": "Finn and Jake contend with a mysterious, but familiar, new being.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1025716"
+      }
+    }
+  },
+  {
+    "id": 240,
+    "url": "http://www.tvmaze.com/episodes/1025717/adventure-time-8x02-do-no-harm",
+    "name": "Do No Harm",
+    "season": 8,
+    "number": 2,
+    "airdate": "2017-01-23",
+    "airtime": "19:45",
+    "airstamp": "2017-01-23T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253147.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253147.jpg"
+    },
+    "summary": "Finn makes amends at the Candy Hospital while Jake tries to connect with their unexpected houseguest.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1025717"
+      }
+    }
+  },
+  {
+    "id": 241,
+    "url": "http://www.tvmaze.com/episodes/1025718/adventure-time-8x03-wheels",
+    "name": "Wheels",
+    "season": 8,
+    "number": 3,
+    "airdate": "2017-01-24",
+    "airtime": "19:45",
+    "airstamp": "2017-01-24T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253148.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253148.jpg"
+    },
+    "summary": "Kim Kil Whan is worried about his daughter's future and asks Jake for some parental advice.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1025718"
+      }
+    }
+  },
+  {
+    "id": 242,
+    "url": "http://www.tvmaze.com/episodes/1025719/adventure-time-8x04-high-strangeness",
+    "name": "High Strangeness",
+    "season": 8,
+    "number": 4,
+    "airdate": "2017-01-25",
+    "airtime": "19:45",
+    "airstamp": "2017-01-25T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253149.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253149.jpg"
+    },
+    "summary": "An otherworldly encounter puts Tree Trunks on the trail of a conspiracy in the Candy Kingdom.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1025719"
+      }
+    }
+  },
+  {
+    "id": 243,
+    "url": "http://www.tvmaze.com/episodes/1025720/adventure-time-8x05-horse-and-ball",
+    "name": "Horse and Ball",
+    "season": 8,
+    "number": 5,
+    "airdate": "2017-01-26",
+    "airtime": "19:45",
+    "airstamp": "2017-01-26T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253150.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253150.jpg"
+    },
+    "summary": "When disaster befalls James Baxter, it's up to Finn and Jake to help him pick up the pieces.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1025720"
+      }
+    }
+  },
+  {
+    "id": 244,
+    "url": "http://www.tvmaze.com/episodes/1025721/adventure-time-8x06-jelly-beans-have-power",
+    "name": "Jelly Beans Have Power",
+    "season": 8,
+    "number": 6,
+    "airdate": "2017-01-27",
+    "airtime": "19:45",
+    "airstamp": "2017-01-27T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253151.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253151.jpg"
+    },
+    "summary": "Princess Bubblegum's scientific mind must wrestle with her Elemental magic potential when she's faced with a Crystal Entity.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1025721"
+      }
+    }
+  },
+  {
+    "id": 245,
+    "url": "http://www.tvmaze.com/episodes/1015756/adventure-time-8x07-islands-part-1-the-invitation",
+    "name": "Islands Part 1: The Invitation",
+    "season": 8,
+    "number": 7,
+    "airdate": "2017-01-30",
+    "airtime": "19:30",
+    "airstamp": "2017-01-30T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/95/239477.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/95/239477.jpg"
+    },
+    "summary": "A mysterious craft invades Ooo and Finn believes it may hold the secrets to his past.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1015756"
+      }
+    }
+  },
+  {
+    "id": 246,
+    "url": "http://www.tvmaze.com/episodes/1020615/adventure-time-8x08-islands-part-2-whipple-the-happy-dragon",
+    "name": "Islands Part 2: Whipple the Happy Dragon",
+    "season": 8,
+    "number": 8,
+    "airdate": "2017-01-30",
+    "airtime": "19:45",
+    "airstamp": "2017-01-30T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253152.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253152.jpg"
+    },
+    "summary": "Finn, Jake, and Susan set sail on a ocean voyage full of wonders and danger.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020615"
+      }
+    }
+  },
+  {
+    "id": 247,
+    "url": "http://www.tvmaze.com/episodes/1020616/adventure-time-8x09-islands-part-3-mysterious-island",
+    "name": "Islands Part 3: Mysterious Island",
+    "season": 8,
+    "number": 9,
+    "airdate": "2017-01-31",
+    "airtime": "19:30",
+    "airstamp": "2017-01-31T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253153.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253153.jpg"
+    },
+    "summary": "After waking up alone and shipwrecked, Finn investigates a bizarre island in search of his friends.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020616"
+      }
+    }
+  },
+  {
+    "id": 248,
+    "url": "http://www.tvmaze.com/episodes/1020617/adventure-time-8x10-islands-part-4-imaginary-resources",
+    "name": "Islands Part 4: Imaginary Resources",
+    "season": 8,
+    "number": 10,
+    "airdate": "2017-01-31",
+    "airtime": "19:45",
+    "airstamp": "2017-01-31T19:45:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253154.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253154.jpg"
+    },
+    "summary": "Finn and Jake travel to a land where reality has been redesigned and improved.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020617"
+      }
+    }
+  },
+  {
+    "id": 249,
+    "url": "http://www.tvmaze.com/episodes/1020618/adventure-time-8x11-islands-part-5-hide-and-seek",
+    "name": "Islands Part 5: Hide and Seek",
+    "season": 8,
+    "number": 11,
+    "airdate": "2017-02-01",
+    "airtime": "19:30",
+    "airstamp": "2017-02-01T19:30:00-05:00",
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/101/253155.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/253155.jpg"
+    },
+    "summary": "While exploring some futuristic ruins, Susan sees glimpses of a familiar girl.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020618"
+      }
+    }
+  },
+  {
+    "id": 250,
+    "url": "http://www.tvmaze.com/episodes/1020619/adventure-time-8x12-islands-part-6-min-marty",
+    "name": "Islands Part 6: Min & Marty",
+    "season": 8,
+    "number": 12,
+    "airdate": "2017-02-01",
+    "airtime": "19:45",
+    "airstamp": "2017-02-01T19:45:00-05:00",
+    "image": null,
+    "summary": "An unexpected revelation from Susan leads Finn closer to answers about his past.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020619"
+      }
+    }
+  },
+  {
+    "id": 251,
+    "url": "http://www.tvmaze.com/episodes/1020620/adventure-time-8x13-islands-part-7-helpers",
+    "name": "Islands Part 7: Helpers",
+    "season": 8,
+    "number": 13,
+    "airdate": "2017-02-02",
+    "airtime": "19:30",
+    "airstamp": "2017-02-02T19:30:00-05:00",
+    "image": null,
+    "summary": "Finn and his friends journey to a last refuge called Founders Island.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020620"
+      }
+    }
+  },
+  {
+    "id": 252,
+    "url": "http://www.tvmaze.com/episodes/1020621/adventure-time-8x14-islands-part-8-the-light-cloud",
+    "name": "Islands Part 8: The Light Cloud",
+    "season": 8,
+    "number": 14,
+    "airdate": "2017-02-02",
+    "airtime": "19:45",
+    "airstamp": "2017-02-02T19:45:00-05:00",
+    "image": null,
+    "summary": "Finn confronts the power behind Founders Island, but will he ever return home to Ooo?.",
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1020621"
+      }
+    }
+  },
+  {
+    "id": 253,
+    "url": "http://www.tvmaze.com/episodes/1121405/adventure-time-8x15-the-orb",
+    "name": "The Orb",
+    "season": 8,
+    "number": 15,
+    "airdate": "2017-04-21",
+    "airtime": "19:45",
+    "airstamp": "2017-04-21T19:45:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1121405"
+      }
+    }
+  },
+  {
+    "id": 254,
+    "url": "http://www.tvmaze.com/episodes/1124697/adventure-time-8x16-elements-part-1",
+    "name": "Elements, Part 1",
+    "season": 8,
+    "number": 16,
+    "airdate": "2017-04-24",
+    "airtime": "19:30",
+    "airstamp": "2017-04-24T19:30:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124697"
+      }
+    }
+  },
+  {
+    "id": 255,
+    "url": "http://www.tvmaze.com/episodes/1124701/adventure-time-8x17-elements-part-2",
+    "name": "Elements, Part 2",
+    "season": 8,
+    "number": 17,
+    "airdate": "2017-04-24",
+    "airtime": "19:45",
+    "airstamp": "2017-04-24T19:45:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124701"
+      }
+    }
+  },
+  {
+    "id": 256,
+    "url": "http://www.tvmaze.com/episodes/1124698/adventure-time-8x18-elements-part-3",
+    "name": "Elements, Part 3",
+    "season": 8,
+    "number": 18,
+    "airdate": "2017-04-25",
+    "airtime": "19:30",
+    "airstamp": "2017-04-25T19:30:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124698"
+      }
+    }
+  },
+  {
+    "id": 257,
+    "url": "http://www.tvmaze.com/episodes/1124702/adventure-time-8x19-elements-part-4",
+    "name": "Elements, Part 4",
+    "season": 8,
+    "number": 19,
+    "airdate": "2017-04-25",
+    "airtime": "19:45",
+    "airstamp": "2017-04-25T19:45:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124702"
+      }
+    }
+  },
+  {
+    "id": 258,
+    "url": "http://www.tvmaze.com/episodes/1124699/adventure-time-8x20-elements-part-5",
+    "name": "Elements, Part 5",
+    "season": 8,
+    "number": 20,
+    "airdate": "2017-04-26",
+    "airtime": "19:30",
+    "airstamp": "2017-04-26T19:30:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124699"
+      }
+    }
+  },
+  {
+    "id": 259,
+    "url": "http://www.tvmaze.com/episodes/1124703/adventure-time-8x21-elements-part-6",
+    "name": "Elements, Part 6",
+    "season": 8,
+    "number": 21,
+    "airdate": "2017-04-26",
+    "airtime": "19:45",
+    "airstamp": "2017-04-26T19:45:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124703"
+      }
+    }
+  },
+  {
+    "id": 260,
+    "url": "http://www.tvmaze.com/episodes/1124700/adventure-time-8x22-elements-part-7",
+    "name": "Elements, Part 7",
+    "season": 8,
+    "number": 22,
+    "airdate": "2017-04-27",
+    "airtime": "19:30",
+    "airstamp": "2017-04-27T19:30:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124700"
+      }
+    }
+  },
+  {
+    "id": 261,
+    "url": "http://www.tvmaze.com/episodes/1124704/adventure-time-8x23-elements-part-8",
+    "name": "Elements, Part 8",
+    "season": 8,
+    "number": 23,
+    "airdate": "2017-04-27",
+    "airtime": "19:45",
+    "airstamp": "2017-04-27T19:45:00-04:00",
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1124704"
+      }
+    }
+  }
+]

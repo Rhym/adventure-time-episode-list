@@ -1,0 +1,60 @@
+.content {
+    margin: 1rem;
+}
+
+.filters {
+    margin: 0 0 1rem;
+}
+
+.filters > *,
+.filters > * > select {
+    width: 100%;
+    display: block;
+    text-align: left;
+}
+
+.filters > * + * {
+    margin-top: 0.5em;
+}
+
+@media screen and (min-width: 976px) {
+    .filters > *,
+    .filters > * > select {
+        width: auto;
+        display: inline-block;
+        text-align: left;
+    }
+
+    .filters > * + * {
+        margin-top: 0;
+        margin-left: 0.5em;
+    }
+}
+
+.table {
+    border: 1px solid rgba(16, 22, 26, 0.15);
+}
+
+table.pt-table .table__se,
+table.pt-table .table__ep {
+    text-align: center;
+}
+
+.table__title {
+    width: 20%;
+}
+
+.table__summary {
+
+}
+
+/**
+ * Select box
+ */
+.pt-select.pt-minimal.pt-active select,
+.pt-select.pt-minimal.pt-active select:hover,
+.pt-select.pt-minimal.pt-active select:focus {
+    box-shadow: none;
+    background: rgba(115, 134, 148, 0.3);
+    color: #182026;
+}
