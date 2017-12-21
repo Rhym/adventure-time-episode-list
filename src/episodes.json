@@ -196,6 +196,7 @@
   {
     "id": 27,
     "name": "It Came from the Nightosphere",
+    "recommended": true,
     "season": 2,
     "airdate": "2010-10-11",
     "summary": "Finn summons the Lord of Evil to reconcile with his daughter, Marceline the Vampire Queen, but ends up unleashing him on the unsuspecting land."
@@ -1645,6 +1646,7 @@
   {
     "id": 220,
     "name": "A King's Ransom",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-01-15",
     "summary": "Ice King suffers a heartbreaking loss and it's up to Finn and Jake to find the culprit."
@@ -1968,6 +1970,7 @@
   {
     "id": 262,
     "name": "Abstract",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-07-17",
     "summary": "As Jake goes through some personal changes, he's haunted by a sinister dream encounter with his brother Jermaine."
@@ -1975,6 +1978,7 @@
   {
     "id": 263,
     "name": "Ketchup",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-07-18",
     "summary": "BMO and Marceline swap stories about their recent adventures."
