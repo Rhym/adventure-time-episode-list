@@ -1315,14 +1315,14 @@
     "summary": "Jake sets out to fulfill a bizarre lifelong ambition."
   },
   {
-    "id": 178,
+    "id": 177,
     "name": "Dentist",
     "season": 6,
     "airdate": "2014-11-28",
     "summary": "Finn's aching tooth leaves him with no othe roption but to go to the dentist."
   },
   {
-    "id": 179,
+    "id": 178,
     "name": "The Cooler",
     "recommended": true,
     "season": 6,
@@ -1330,14 +1330,14 @@
     "summary": "When the Fire Kingdom is struck by a natural disaster, Flame Princess turns to an unlikely ally."
   },
   {
-    "id": 180,
+    "id": 179,
     "name": "The Pajama Wars",
     "season": 6,
     "airdate": "2015-01-08",
     "summary": "A Candy Kingdom slumber party devolves into panic when Finn and Princess Bubblegum vanish."
   },
   {
-    "id": 181,
+    "id": 180,
     "name": "Evergreen",
     "recommended": true,
     "season": 6,
@@ -1345,7 +1345,7 @@
     "summary": "In a distant age, the wizard Evergreen quests to save the world."
   },
   {
-    "id": 182,
+    "id": 181,
     "name": "Astral Plane",
     "recommended": true,
     "season": 6,
@@ -1353,7 +1353,7 @@
     "summary": "Finn has an out-of-body experience that takes him all over Ooo and beyond."
   },
   {
-    "id": 183,
+    "id": 182,
     "name": "Gold Stars",
     "recommended": true,
     "season": 6,
@@ -1361,7 +1361,7 @@
     "summary": "Tree Trunks and Mr. Pig's child, Sweet P, runs into trouble on his first day of school."
   },
   {
-    "id": 184,
+    "id": 183,
     "name": "The Visitor",
     "recommended": true,
     "season": 6,
@@ -1369,7 +1369,7 @@
     "summary": "A vision leads Finn to a friendly civilization and a mysterious crash site."
   },
   {
-    "id": 185,
+    "id": 184,
     "name": "The Mountain",
     "recommended": true,
     "season": 6,
@@ -1377,7 +1377,7 @@
     "summary": "Lemongrab and Finn go on a journey of discovery through the Mountain of Matthew."
   },
   {
-    "id": 186,
+    "id": 185,
     "name": "Dark Purple",
     "recommended": true,
     "season": 6,
@@ -1385,28 +1385,28 @@
     "summary": "Finn and his magical dog Jake get into outlandish adventures in the land of Ooo."
   },
   {
-    "id": 187,
+    "id": 186,
     "name": "The Diary",
     "season": 6,
     "airdate": "2015-02-26",
     "summary": "Jake's son TV discovers a lost diary and sets out to solve a decades-old mystery."
   },
   {
-    "id": 188,
+    "id": 187,
     "name": "Walnuts & Rain",
     "season": 6,
     "airdate": "2015-03-05",
     "summary": "Two different fates await Finn and Jake."
   },
   {
-    "id": 189,
+    "id": 188,
     "name": "Friends Forever",
     "season": 6,
     "airdate": "2015-04-16",
     "summary": "Ice King plots to form a perfect circle of confidants."
   },
   {
-    "id": 190,
+    "id": 189,
     "name": "Jermaine",
     "recommended": true,
     "season": 6,
@@ -1414,14 +1414,14 @@
     "summary": "After a chilling dream encounter, Finn & Jake are determined to reconnect with their reclusive brother."
   },
   {
-    "id": 191,
+    "id": 190,
     "name": "Chips & Ice Cream",
     "season": 6,
     "airdate": "2015-04-30",
     "summary": "BMO's favorite entertainers unexpectedly find a new home at the tree house."
   },
   {
-    "id": 192,
+    "id": 191,
     "name": "Graybles 1000+",
     "recommended": true,
     "season": 6,
@@ -1429,7 +1429,7 @@
     "summary": "Marooned on an alien world, Cuber must rely on his bag of Graybles to survive."
   },
   {
-    "id": 193,
+    "id": 192,
     "name": "Hoots",
     "recommended": true,
     "season": 6,
@@ -1437,21 +1437,21 @@
     "summary": "A charismatic stranger in Finn's dream leads Cosmic Owl to shirk his duties."
   },
   {
-    "id": 194,
+    "id": 193,
     "name": "Water Park Prank",
     "season": 6,
     "airdate": "2015-05-21",
     "summary": "After rescuing Princess Orangutan from Daddy-sad-heads, Finn & Jake head to a post-apocalyptic water park for a day of fun."
   },
   {
-    "id": 195,
+    "id": 194,
     "name": "You Forgot Your Floaties",
     "season": 6,
     "airdate": "2015-06-01",
     "summary": "Finn & Jake storm Magic Man's house to rescue his new apprentice."
   },
   {
-    "id": 196,
+    "id": 195,
     "name": "Be Sweet",
     "recommended": true,
     "season": 6,
@@ -1459,7 +1459,7 @@
     "summary": "A fed up Lumpy Space Princess leaves the woods for a glamorous career in babysitting."
   },
   {
-    "id": 197,
+    "id": 196,
     "name": "Orgalorg",
     "recommended": true,
     "season": 6,
@@ -1467,123 +1467,144 @@
     "summary": "After a walrus race accident, Gunther starts to experience strange visions."
   },
   {
-    "id": 198,
+    "id": 197,
     "name": "On the Lam",
     "season": 6,
     "airdate": "2015-06-04",
     "summary": "Finn's dad Martin the Human fights for freedom on a strange new planet!"
   },
   {
-    "id": 199,
+    "id": 198,
     "name": "Hot Diggity Doom",
+    "recommended": true,
     "season": 6,
     "airdate": "2015-06-05",
-    "summary": "It's election day in the Candy Kingdom but Princess Bubblegum's attention is diverted by a mysterious presence in the sky. "
+    "summary": "It's election day in the Candy Kingdom but Princess Bubblegum's attention is diverted by a mysterious presence in the sky."
   },
   {
-    "id": 200,
+    "id": 199,
     "name": "The Comet",
+    "recommended": true,
     "season": 6,
     "airdate": "2015-06-05",
     "summary": "Finn, Jake and Orgalorg converge with the comet and meet their destiny."
   },
   {
-    "id": 201,
+    "id": 200,
     "name": "Bonnie & Neddy",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-02",
-    "summary": "Jake and Finn are sleuthing under the order of Candy Kingdom's new \nprincess when they discover one of the land's greatest secrets."
+    "summary": "Jake and Finn are sleuthing under the order of Candy Kingdom's new princess when they discover one of the land's greatest secrets."
   },
   {
-    "id": 202,
+    "id": 201,
     "name": "Varmints",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-03",
     "summary": "When something threatens her homestead's citizens, Bubblegum turns to Marceline for help."
   },
   {
-    "id": 203,
+    "id": 202,
     "name": "Cherry Cream Soda",
     "season": 7,
     "airdate": "2015-11-04",
     "summary": "Cherry Cream Soda's life falls flat with the arrival of a visitor."
   },
   {
-    "id": 204,
+    "id": 203,
     "name": "Mama Said",
     "season": 7,
     "airdate": "2015-11-05",
     "summary": "Finn and Jake's loyalty is questioned when King of Ooo sends the duo on a mission to catch flying mushrooms."
   },
   {
-    "id": 205,
+    "id": 204,
     "name": "Football",
     "season": 7,
     "airdate": "2015-11-06",
     "summary": "BMO and Football make a deal but one them can't hold their end of the bargain."
   },
   {
-    "id": 206,
-    "name": "Stakes: Marceline the Vampire Queen",
+    "id": 205,
+    "name": "Marceline the Vampire Queen",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-16",
     "summary": "Finn & Jake hunt for a shadowy predator and Marceline asks Princess Bubblegum for a huge favor."
   },
   {
-    "id": 207,
-    "name": "Stakes: Everything Stays",
+    "id": 206,
+    "name": "Everything Stays",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-16",
     "summary": "As the sun rises on her last day, Marceline recalls her long extraordinary life."
   },
   {
-    "id": 208,
-    "name": "Stakes: Vamps About",
+    "id": 207,
+    "name": "Vamps About",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-17",
     "summary": "Five foes from Marceline's past come back to cause trouble for the Land of Ooo."
   },
   {
-    "id": 209,
-    "name": "Stakes: Empress Eyes",
+    "id": 208,
+    "name": "Empress Eyes",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-17",
     "summary": "When one of her oldest adversaries targets the Ice Kingdom, Marceline rushes to Simon's rescue."
   },
   {
-    "id": 210,
-    "name": "Stakes: May I Come In?",
+    "id": 209,
+    "name": "May I Come In?",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-18",
     "summary": "Finn, Jake, Marceline, and PB set out to hunt down the Vamps. But who is hunting them?"
   },
   {
-    "id": 211,
-    "name": "Stakes: Take Her Back",
+    "id": 210,
+    "name": "Take Her Back",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-18",
     "summary": "While Princess Bubblegum searches for a cure for Marceline, Finn & Jake take on one of the Vamps themselves."
   },
   {
-    "id": 212,
-    "name": "Stakes: Checkmate",
+    "id": 211,
+    "name": "Checkmate",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-19",
     "summary": "On the eve of battle, Marceline's archenemy comes to her with a strange proposal."
   },
   {
-    "id": 213,
-    "name": "Stakes: The Dark Cloud",
+    "id": 212,
+    "name": "The Dark Cloud",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-11-19",
     "summary": "The final confrontation! Who will survive?"
   },
   {
-    "id": 214,
-    "name": "The More You Moe, The Moe You Know",
+    "id": 213,
+    "name": "The More You Moe, The Moe You Know: Part I",
+    "recommended": true,
     "season": 7,
     "airdate": "2015-12-03",
-    "summary": "BMO's maker Moe comes to visit with a quest for BMO. \"Moe\" is actually revealed to be AMO, who attempts to destroy BMO and steal Finn and Jake for itself."
+    "summary": "\"Moe\" visits the tree house with a special birthday mission for BMO. While BMO's mission stands on the brink of disaster, Finn and Jake host \"Moe\"."
+  },
+  {
+    "id": 214,
+    "name": "The More You Moe, The Moe You Know: Part II",
+    "recommended": true,
+    "season": 7,
+    "airdate": "2015-12-03",
+    "summary": "\"Moe\" is actually revealed to be AMO, who attempts to destroy BMO and steal Finn and Jake for itself."
   },
   {
     "id": 215,
@@ -1637,6 +1658,7 @@
   {
     "id": 222,
     "name": "Crossover",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-01-28",
     "summary": "Prismo needs Finn and Jake's help to stop a catastrophic event from happening somewhere in the multiverse."
@@ -1651,6 +1673,7 @@
   {
     "id": 224,
     "name": "Flute Spell",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-03-12",
     "summary": "Jake learns that Finn's been having clandestine meetings with a powerful wizard. But what are they up to?"
@@ -1658,6 +1681,7 @@
   {
     "id": 225,
     "name": "The Thin Yellow Line",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-03-19",
     "summary": "Finn and Jake infiltrte the Banana Guard ranks and stumble upon a conspiracy."
@@ -1665,6 +1689,7 @@
   {
     "id": 226,
     "name": "Broke His Crown",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-03-26",
     "summary": "When Ice King's magic crown goes haywire, marceline and Princess Bubblegum resort to extreme measures to help him."
@@ -1672,6 +1697,7 @@
   {
     "id": 227,
     "name": "Don't Look",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-04-02",
     "summary": "At the top of Dead Mountain, Finn discovers a treasure that comes with a terrible price."
@@ -1693,6 +1719,7 @@
   {
     "id": 230,
     "name": "I Am a Sword",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-04-23",
     "summary": "Finn starts having guilt nightmares about his missing Finn Sword...but are the nightmares real?"
@@ -1714,6 +1741,7 @@
   {
     "id": 233,
     "name": "Elemental",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-05-19",
     "summary": "Ice King discovers something buried deep beneath the Ice Kingdom that could change Ooo forever."
@@ -1728,6 +1756,7 @@
   {
     "id": 235,
     "name": "The Music Hole",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-06-23",
     "summary": "While judging the hugest Battle of the Bands in the history of Ooo, Finn hears a mysterious new song."
@@ -1742,6 +1771,7 @@
   {
     "id": 237,
     "name": "PreBoot",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-11-19",
     "summary": "During an excavation, Finn, Jake and Susan encounter a mysterious stranger who may hold the key to the past.\n "
@@ -1749,6 +1779,7 @@
   {
     "id": 238,
     "name": "ReBoot",
+    "recommended": true,
     "season": 7,
     "airdate": "2016-11-19",
     "summary": "Finn and Jake take on one of the fiercest enemies they've faced when a powerful ally goes rogue.\n "
@@ -1756,6 +1787,7 @@
   {
     "id": 239,
     "name": "Two Swords",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-23",
     "summary": "Finn and Jake contend with a mysterious, but familiar, new being."
@@ -1763,6 +1795,7 @@
   {
     "id": 240,
     "name": "Do No Harm",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-23",
     "summary": "Finn makes amends at the Candy Hospital while Jake tries to connect with their unexpected houseguest."
@@ -1791,62 +1824,71 @@
   {
     "id": 244,
     "name": "Jelly Beans Have Power",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-27",
     "summary": "Princess Bubblegum's scientific mind must wrestle with her Elemental magic potential when she's faced with a Crystal Entity."
   },
   {
     "id": 245,
-    "name": "Islands Part 1: The Invitation",
+    "name": "The Invitation",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-30",
     "summary": "A mysterious craft invades Ooo and Finn believes it may hold the secrets to his past."
   },
   {
     "id": 246,
-    "name": "Islands Part 2: Whipple the Happy Dragon",
+    "name": "Whipple the Happy Dragon",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-30",
     "summary": "Finn, Jake, and Susan set sail on a ocean voyage full of wonders and danger."
   },
   {
     "id": 247,
-    "name": "Islands Part 3: Mysterious Island",
+    "name": "Mysterious Island",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-31",
     "summary": "After waking up alone and shipwrecked, Finn investigates a bizarre island in search of his friends."
   },
   {
     "id": 248,
-    "name": "Islands Part 4: Imaginary Resources",
+    "name": "Imaginary Resources",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-01-31",
     "summary": "Finn and Jake travel to a land where reality has been redesigned and improved."
   },
   {
     "id": 249,
-    "name": "Islands Part 5: Hide and Seek",
+    "name": "Hide and Seek",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-02-01",
     "summary": "While exploring some futuristic ruins, Susan sees glimpses of a familiar girl."
   },
   {
     "id": 250,
-    "name": "Islands Part 6: Min & Marty",
+    "name": "Min & Marty",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-02-01",
     "summary": "An unexpected revelation from Susan leads Finn closer to answers about his past."
   },
   {
     "id": 251,
-    "name": "Islands Part 7: Helpers",
+    "name": "Helpers",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-02-02",
     "summary": "Finn and his friends journey to a last refuge called Founders Island."
   },
   {
     "id": 252,
-    "name": "Islands Part 8: The Light Cloud",
+    "name": "The Light Cloud",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-02-02",
     "summary": "Finn confronts the power behind Founders Island, but will he ever return home to Ooo?."
@@ -1854,64 +1896,169 @@
   {
     "id": 253,
     "name": "The Orb",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-21",
-    "summary": null
+    "summary": "Finn, Jake and BMO's dreams fall under the influence of a mysterious orb."
   },
   {
     "id": 254,
-    "name": "Elements, Part 1",
+    "name": "Skyhooks",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-24",
-    "summary": null
+    "summary": "When they return to Ooo, Finn and Jake discover that there have been radical changes in their absence."
   },
   {
     "id": 255,
-    "name": "Elements, Part 2",
+    "name": "Bespoken For",
     "season": 8,
     "airdate": "2017-04-24",
-    "summary": null
+    "summary": "Ice King weaves a tale filled with drama, romance and men's fashion."
   },
   {
     "id": 256,
-    "name": "Elements, Part 3",
+    "name": "Winter Light",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-25",
-    "summary": null
+    "summary": "Finn, Jake and Ice King travel to the new Ice Kingdom to confront the person responsible for the changes."
   },
   {
     "id": 257,
-    "name": "Elements, Part 4",
+    "name": "Cloudy",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-25",
-    "summary": null
+    "summary": "Finn and Jake must escape exile in an endless sky before they can restore Ooo."
   },
   {
     "id": 258,
-    "name": "Elements, Part 5",
+    "name": "Slime Central",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-26",
-    "summary": null
+    "summary": "When Finn and Jake infiltrate the new Slime Kingdom, they become embroiled in a very heated skate battle."
   },
   {
     "id": 259,
-    "name": "Elements, Part 6",
+    "name": "Happy Warrior",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-26",
-    "summary": null
+    "summary": "Finn and his friends fight through a more brutal Fire Kingdom to find Flame Princess."
   },
   {
     "id": 260,
-    "name": "Elements, Part 7",
+    "name": "Hero Heart",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-27",
-    "summary": null
+    "summary": "A full-scale war breaks out between two kingdoms, and Ooo's most unlikely hero must put an end to the fighting."
   },
   {
     "id": 261,
-    "name": "Elements, Part 8",
+    "name": "Skyhooks II",
+    "recommended": true,
     "season": 8,
     "airdate": "2017-04-27",
-    "summary": null
+    "summary": "Finn and Lumpy Space Princess work together to unlock one of Ooo's greatest secrets before time runs out."
+  },
+  {
+    "id": 262,
+    "name": "Abstract",
+    "season": 8,
+    "airdate": "2017-07-17",
+    "summary": "As Jake goes through some personal changes, he's haunted by a sinister dream encounter with his brother Jermaine."
+  },
+  {
+    "id": 263,
+    "name": "Ketchup",
+    "season": 8,
+    "airdate": "2017-07-18",
+    "summary": "BMO and Marceline swap stories about their recent adventures."
+  },
+  {
+    "id": 264,
+    "name": "Fionna and Cake and Fionna",
+    "season": 8,
+    "airdate": "2017-07-19",
+    "summary": "An unexpected critic shows up at Ice King's latest Fionna and Cake book reading."
+  },
+  {
+    "id": 265,
+    "name": "Whispers",
+    "recommended": true,
+    "season": 8,
+    "airdate": "2017-07-20",
+    "summary": "While safeguarding a frightened Sweet P, Finn is led into a confrontation with an old foe."
+  },
+  {
+    "id": 266,
+    "name": "Three Buckets",
+    "recommended": true,
+    "season": 8,
+    "airdate": "2017-07-21",
+    "summary": "Finn and Fern's carefree visit to some old ruins turns disastrous."
+  },
+  {
+    "id": 267,
+    "name": "The Wild Hunt",
+    "recommended": true,
+    "season": 9,
+    "airdate": "2017-09-17",
+    "summary": "A fierce creature is terrorizing the Candy Kingdom but before Finn can slay the beast, he must first overcome a guilty conscience."
+  },
+  {
+    "id": 268,
+    "name": "Always BMO Closing",
+    "recommended": true,
+    "season": 9,
+    "airdate": "2017-09-17",
+    "summary": "BMO and Ice King hit the road as door-to-door salesmen and stumble upon an irresistible opportunity."
+  },
+  {
+    "id": 269,
+    "name": "Son of Rap Bear",
+    "season": 9,
+    "airdate": "2017-09-17",
+    "summary": "When Flame Princess is coaxed into a high stakes battle against the indomitable Son of Rap Bear, Finn must help her search for a new strategy."
+  },
+  {
+    "id": 270,
+    "name": "Bonnibel Bubblegum",
+    "recommended": true,
+    "season": 9,
+    "airdate": "2017-09-17",
+    "summary": "A long lost artifact causes Princess Bubblegum to harken back to the creation of the Candy Kingdom."
+  },
+  {
+    "id": 271,
+    "name": "Seventeen",
+    "recommended": true,
+    "season": 9,
+    "airdate": "2017-12-17",
+    "summary": "A mysterious knight crashes Finn's birthday bash and presents him with a dangerous gift."
+  },
+  {
+    "id": 272,
+    "name": "Ring of Fire",
+    "season": 9,
+    "airdate": "2017-12-17",
+    "summary": "When an old flame comes calling on urgent business, Tree Trunks reconsiders both her wild past and her tranquil present."
+  },
+  {
+    "id": 273,
+    "name": "Marcy & Hunson",
+    "season": 9,
+    "airdate": "2017-12-17",
+    "summary": "Hunson Abadeer returns to Ooo to bond with his daughter Marceline, but will he be able to prove he's changed his soul-sucking ways?"
+  },
+  {
+    "id": 274,
+    "name": "The First Investigation",
+    "season": 9,
+    "airdate": "2017-12-17",
+    "summary": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office."
   }
 ]
