@@ -1446,6 +1446,7 @@
   {
     "id": 194,
     "name": "You Forgot Your Floaties",
+    "recommended": true,
     "season": 6,
     "airdate": "2015-06-01",
     "summary": "Finn & Jake storm Magic Man's house to rescue his new apprentice."
@@ -2057,6 +2058,7 @@
   {
     "id": 274,
     "name": "The First Investigation",
+    "recommended": true,
     "season": 9,
     "airdate": "2017-12-17",
     "summary": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office."
